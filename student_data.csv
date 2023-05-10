@@ -1,0 +1,1001 @@
+age,gender,academic_performance,extracurricular_activities,time_management,social_skills,motivation,attendance,communication,teamwork,suitable,sender,subject,body_length,has_attachment,is_reply,is_forward,is_spam
+24,M,64,8,2,Excellent,Low,48,Good,Good,1,colleague,discount,5356,0,1,0,0
+21,F,52,3,0,Poor,High,51,Very Good,Excellent,1,friend,discount,4077,0,1,1,0
+22,M,78,3,2,Poor,Low,28,Fair,Excellent,0,friend,offer,4898,0,0,0,1
+24,M,72,1,2,Good,Medium,20,Good,Fair,0,colleague,meeting,1417,0,0,1,1
+20,M,14,5,0,Very Good,Medium,89,Poor,Fair,0,colleague,prize,8846,0,0,0,1
+22,M,48,1,2,Good,Medium,77,Excellent,Poor,1,friend,discount,110,0,0,0,1
+22,F,87,6,1,Poor,Low,8,Fair,Good,0,spam,meeting,8281,0,1,0,1
+24,F,67,2,0,Excellent,Medium,46,Very Good,Poor,1,friend,meeting,8954,1,0,0,1
+19,F,11,2,2,Good,Medium,75,Fair,Poor,1,spam,meeting,7391,1,0,0,1
+20,M,58,4,4,Good,Medium,41,Very Good,Good,1,spam,offer,5132,1,1,0,0
+24,F,36,2,2,Fair,Medium,50,Fair,Fair,0,colleague,prize,2504,0,0,1,0
+20,M,60,1,1,Poor,Medium,55,Very Good,Good,0,colleague,offer,9656,1,0,0,0
+20,F,42,9,3,Excellent,Medium,50,Good,Very Good,1,friend,discount,8289,0,1,0,1
+22,F,69,8,2,Good,Low,69,Poor,Very Good,1,spam,offer,5239,1,1,1,1
+21,F,38,1,3,Good,Medium,19,Good,Very Good,1,spam,meeting,292,1,1,0,0
+20,M,55,1,4,Excellent,Medium,87,Poor,Excellent,0,friend,offer,1734,1,1,1,0
+23,F,62,7,2,Poor,High,26,Good,Fair,1,friend,meeting,5120,1,1,1,1
+22,F,45,8,0,Fair,Low,37,Good,Fair,0,friend,prize,6393,0,1,0,1
+19,M,87,6,3,Good,Low,71,Fair,Excellent,1,colleague,offer,2196,0,1,0,1
+21,F,10,2,4,Fair,Low,64,Excellent,Poor,0,friend,offer,3466,1,0,1,1
+23,M,61,8,0,Very Good,Low,53,Very Good,Very Good,1,friend,offer,1906,0,0,0,1
+23,F,76,2,0,Poor,Medium,23,Very Good,Very Good,0,spam,meeting,1721,0,1,1,1
+19,M,97,4,0,Very Good,Medium,46,Very Good,Poor,0,friend,meeting,1816,1,0,0,1
+21,M,24,8,0,Very Good,High,70,Poor,Good,0,spam,offer,8444,0,1,1,1
+22,F,70,2,2,Very Good,High,82,Very Good,Good,0,spam,offer,4227,0,0,0,0
+18,M,51,6,2,Poor,Low,85,Very Good,Fair,0,colleague,prize,5775,0,1,0,1
+21,M,3,0,2,Poor,High,62,Fair,Excellent,0,friend,prize,3849,0,0,1,1
+19,M,58,3,4,Excellent,High,56,Good,Fair,1,friend,discount,5228,1,1,1,1
+23,M,71,3,4,Fair,Low,54,Very Good,Good,1,spam,prize,6849,1,0,1,0
+22,M,19,6,4,Fair,Low,59,Excellent,Poor,1,colleague,prize,1058,0,1,1,0
+21,M,92,7,1,Excellent,High,98,Very Good,Fair,1,colleague,prize,2322,1,0,0,1
+18,F,62,0,4,Excellent,Medium,61,Poor,Very Good,0,friend,meeting,8378,1,0,1,0
+18,M,53,4,2,Very Good,High,29,Poor,Very Good,1,spam,prize,948,1,1,1,0
+20,M,73,6,2,Excellent,High,92,Poor,Poor,0,friend,prize,8179,0,0,0,0
+20,F,97,3,1,Good,Medium,21,Very Good,Good,0,friend,offer,4359,0,0,0,1
+24,F,56,3,1,Fair,Medium,74,Fair,Very Good,0,friend,meeting,5660,1,0,1,1
+19,F,89,3,4,Excellent,Low,83,Excellent,Very Good,1,friend,discount,7254,1,0,0,1
+21,F,40,5,3,Good,Low,28,Very Good,Excellent,0,spam,discount,8401,0,0,1,1
+21,F,2,6,1,Good,High,40,Fair,Fair,1,colleague,prize,2093,1,1,0,1
+24,F,5,1,0,Good,Medium,41,Fair,Good,1,friend,discount,1563,0,1,1,1
+23,F,4,4,2,Good,Low,97,Very Good,Fair,1,friend,discount,8217,1,0,0,1
+23,M,4,3,0,Very Good,High,64,Very Good,Good,1,friend,discount,174,0,1,1,0
+24,M,53,2,2,Good,Medium,30,Fair,Very Good,1,friend,prize,1334,0,0,1,1
+23,F,46,6,2,Very Good,High,29,Fair,Excellent,0,colleague,discount,321,0,1,0,1
+20,M,86,5,1,Very Good,Low,17,Fair,Fair,0,colleague,prize,5698,0,0,0,1
+21,M,48,6,1,Good,Low,16,Very Good,Very Good,1,colleague,offer,5604,1,0,1,1
+24,M,8,4,0,Fair,Medium,37,Fair,Good,0,colleague,offer,6742,0,0,1,1
+21,F,98,5,2,Good,High,13,Poor,Fair,1,friend,discount,7436,1,0,0,1
+18,F,19,4,0,Good,Medium,86,Very Good,Fair,0,spam,offer,8524,0,1,0,1
+20,M,60,6,3,Good,Low,88,Poor,Very Good,0,colleague,prize,5674,0,1,0,1
+22,F,34,1,0,Fair,Low,78,Good,Fair,0,colleague,offer,5002,1,1,0,0
+20,M,49,4,4,Poor,High,55,Very Good,Excellent,0,friend,discount,910,1,0,0,0
+24,M,81,5,0,Poor,High,21,Good,Excellent,0,friend,prize,949,1,1,0,1
+22,M,61,5,4,Very Good,High,66,Fair,Very Good,0,friend,meeting,5425,0,1,0,1
+18,M,16,4,4,Very Good,Medium,55,Fair,Good,0,friend,prize,2514,0,0,0,0
+24,F,87,9,4,Fair,High,18,Excellent,Very Good,0,spam,offer,7701,1,0,0,1
+19,F,2,6,3,Excellent,High,56,Fair,Excellent,0,spam,meeting,100,0,0,1,1
+21,F,31,9,0,Poor,Low,43,Good,Poor,0,colleague,prize,4646,1,1,0,0
+18,M,98,7,0,Very Good,Low,97,Fair,Poor,0,spam,meeting,6945,0,1,0,1
+21,F,12,6,3,Poor,High,34,Very Good,Fair,0,colleague,meeting,2400,0,0,1,1
+23,M,88,4,2,Fair,High,0,Fair,Fair,0,colleague,meeting,5801,0,1,1,1
+19,F,72,0,1,Fair,Low,51,Excellent,Poor,1,spam,prize,2343,1,0,1,0
+19,M,67,4,0,Excellent,High,84,Fair,Excellent,0,colleague,offer,352,0,1,1,0
+18,M,13,9,1,Excellent,Medium,92,Good,Fair,0,friend,prize,2955,1,0,1,1
+19,M,97,1,3,Fair,Medium,69,Good,Very Good,0,colleague,offer,1018,1,1,1,0
+22,F,10,4,2,Very Good,Medium,36,Fair,Very Good,0,friend,prize,1179,0,1,0,0
+19,F,55,4,2,Poor,High,64,Good,Excellent,0,spam,prize,5193,1,1,1,0
+21,F,66,1,2,Good,Low,50,Good,Fair,0,spam,prize,3536,1,0,1,1
+21,F,91,4,3,Excellent,High,0,Excellent,Very Good,1,colleague,offer,2502,0,0,1,0
+24,M,28,3,4,Good,High,90,Very Good,Fair,1,friend,prize,3819,1,0,0,0
+21,F,8,0,4,Very Good,Low,20,Excellent,Fair,1,colleague,meeting,6855,1,1,1,0
+24,F,66,2,1,Excellent,Low,52,Poor,Very Good,0,spam,prize,979,0,0,0,1
+21,M,24,0,4,Good,Low,15,Excellent,Poor,0,colleague,meeting,976,0,1,1,0
+22,M,97,4,4,Very Good,Medium,60,Fair,Very Good,0,colleague,discount,9563,0,0,1,0
+24,M,75,3,2,Poor,High,53,Very Good,Excellent,1,friend,discount,2280,1,0,0,1
+20,F,41,6,2,Very Good,Low,39,Fair,Good,0,spam,offer,5897,1,1,0,0
+23,M,8,4,1,Excellent,High,25,Poor,Very Good,0,colleague,offer,107,0,1,1,0
+18,M,78,9,0,Fair,Medium,79,Very Good,Fair,1,friend,discount,9164,1,0,0,0
+21,M,39,3,1,Poor,Medium,91,Good,Fair,1,colleague,prize,1626,0,0,0,1
+19,F,24,1,1,Good,Low,64,Excellent,Very Good,0,friend,prize,8895,0,1,1,1
+21,M,4,3,3,Excellent,Low,99,Fair,Good,0,friend,prize,6229,0,1,1,0
+19,F,10,1,3,Fair,High,73,Poor,Very Good,0,colleague,discount,6877,1,0,1,0
+23,F,58,7,1,Very Good,Low,63,Good,Good,0,spam,meeting,874,1,1,0,0
+23,M,97,2,1,Fair,High,42,Excellent,Good,1,spam,offer,5543,0,0,1,0
+23,M,87,8,1,Excellent,Low,16,Good,Excellent,0,friend,meeting,3809,0,0,1,0
+19,F,78,3,4,Excellent,High,58,Excellent,Fair,0,spam,discount,2107,1,0,0,0
+21,M,37,5,3,Fair,High,22,Very Good,Fair,1,friend,meeting,9465,0,1,0,1
+23,M,71,9,1,Very Good,High,6,Good,Good,0,spam,prize,559,1,0,1,0
+22,F,4,4,2,Fair,High,43,Good,Fair,0,colleague,prize,8308,0,0,0,0
+24,F,47,9,2,Excellent,Medium,52,Good,Poor,1,spam,meeting,4969,0,1,1,0
+19,M,89,0,4,Excellent,High,70,Very Good,Good,1,friend,discount,3046,1,1,0,1
+19,F,17,8,4,Good,Low,78,Poor,Fair,0,friend,meeting,43,1,1,1,0
+21,M,69,0,0,Good,Medium,33,Excellent,Poor,1,spam,prize,508,1,0,0,1
+19,M,36,7,0,Poor,Medium,45,Good,Excellent,1,colleague,prize,6107,1,1,0,0
+19,M,59,8,0,Excellent,High,67,Very Good,Fair,0,friend,discount,3439,1,1,0,0
+23,F,47,8,4,Good,Medium,77,Poor,Poor,1,friend,meeting,3928,0,0,0,0
+21,M,76,0,4,Fair,High,77,Excellent,Very Good,0,friend,prize,5411,0,0,1,0
+23,M,27,1,4,Very Good,Low,15,Very Good,Very Good,0,friend,prize,916,1,0,0,0
+24,M,68,0,2,Fair,High,70,Excellent,Poor,0,friend,meeting,798,1,0,1,0
+24,F,76,9,4,Very Good,Medium,95,Good,Good,0,colleague,meeting,4971,0,1,0,1
+23,F,80,1,2,Good,Low,18,Poor,Good,1,spam,offer,1760,0,0,0,0
+24,F,39,9,0,Poor,High,1,Very Good,Fair,0,colleague,discount,3275,1,1,1,0
+21,F,44,7,0,Fair,Low,9,Poor,Very Good,0,colleague,discount,818,1,0,0,0
+18,F,95,4,0,Fair,Low,49,Good,Good,0,friend,meeting,5040,0,0,0,1
+23,M,61,6,1,Fair,Medium,80,Poor,Good,0,colleague,discount,3065,1,1,1,0
+22,F,92,1,1,Very Good,Low,11,Poor,Very Good,1,friend,prize,3259,0,1,0,1
+22,F,57,7,3,Good,Medium,69,Fair,Excellent,1,colleague,meeting,906,0,1,1,0
+19,F,66,5,3,Fair,Low,21,Poor,Good,1,friend,meeting,602,1,0,0,0
+24,M,55,7,3,Fair,High,31,Excellent,Poor,0,friend,meeting,4295,0,0,0,1
+22,F,39,0,1,Poor,Low,83,Very Good,Fair,1,colleague,offer,9983,0,1,0,1
+19,F,97,0,1,Poor,High,0,Fair,Good,1,colleague,discount,3527,0,1,1,0
+18,M,39,6,3,Good,High,53,Very Good,Good,0,spam,offer,4543,1,0,0,1
+21,F,90,7,3,Good,Low,57,Very Good,Excellent,1,spam,prize,1811,0,1,0,1
+21,M,76,2,4,Excellent,High,69,Good,Poor,0,spam,discount,9032,1,1,0,0
+21,M,32,4,3,Poor,Low,82,Good,Fair,1,colleague,offer,7963,0,0,0,0
+22,M,5,0,4,Excellent,Low,17,Fair,Good,1,colleague,meeting,5249,0,1,0,0
+18,M,87,6,2,Very Good,High,5,Good,Fair,1,friend,offer,4615,0,0,0,1
+22,M,18,4,1,Excellent,High,44,Good,Very Good,1,spam,meeting,9228,0,0,0,0
+24,F,79,7,3,Fair,Medium,96,Good,Good,0,friend,offer,8916,0,0,0,0
+22,M,39,7,1,Excellent,High,22,Very Good,Good,0,friend,offer,6766,1,1,0,1
+18,M,91,8,1,Good,Medium,22,Fair,Very Good,1,friend,offer,9179,1,1,1,1
+18,F,96,6,1,Very Good,High,25,Very Good,Excellent,0,friend,meeting,802,0,1,0,0
+24,M,58,0,2,Fair,Low,76,Excellent,Good,1,spam,offer,2582,1,1,1,1
+18,F,58,2,0,Excellent,High,6,Very Good,Fair,1,friend,discount,6445,1,0,1,1
+18,F,47,7,3,Very Good,Low,78,Excellent,Poor,1,colleague,discount,3837,0,0,1,1
+21,F,40,2,0,Very Good,Low,43,Poor,Fair,1,colleague,discount,8718,1,1,0,0
+24,M,12,7,0,Fair,Low,26,Poor,Excellent,1,colleague,meeting,1665,1,1,1,0
+20,M,44,0,0,Excellent,Medium,25,Excellent,Poor,1,spam,meeting,9330,1,1,1,0
+20,M,88,4,1,Very Good,High,96,Excellent,Fair,0,friend,discount,8651,1,1,1,1
+18,F,52,3,4,Very Good,Low,78,Very Good,Fair,0,spam,discount,6975,0,0,0,0
+20,M,41,4,1,Poor,Low,35,Excellent,Very Good,1,friend,discount,2552,1,1,1,0
+20,M,99,7,1,Very Good,Medium,54,Fair,Excellent,0,spam,prize,7475,0,0,0,1
+18,M,62,9,0,Poor,High,63,Poor,Very Good,1,spam,discount,2808,0,1,1,1
+20,F,26,3,1,Excellent,High,90,Poor,Poor,0,friend,offer,5633,1,1,1,0
+22,F,37,3,0,Excellent,Medium,56,Excellent,Very Good,0,spam,prize,6096,0,1,0,1
+19,M,59,2,4,Excellent,Medium,68,Good,Excellent,0,friend,prize,8823,1,0,0,0
+24,M,6,6,3,Good,High,60,Good,Good,1,colleague,meeting,2456,0,1,1,0
+19,M,4,2,0,Excellent,Medium,1,Excellent,Good,0,colleague,offer,9173,1,0,1,0
+18,M,44,2,4,Very Good,High,54,Fair,Poor,1,colleague,meeting,5423,1,0,1,1
+21,F,57,9,3,Fair,High,96,Good,Good,1,spam,meeting,4317,0,1,0,1
+24,F,30,4,2,Poor,Low,79,Excellent,Very Good,1,colleague,offer,1556,1,0,0,0
+18,F,22,4,0,Good,Low,86,Fair,Poor,0,friend,meeting,2205,1,0,1,0
+21,F,41,5,0,Excellent,High,37,Fair,Excellent,0,colleague,offer,3955,1,0,1,0
+19,M,9,7,2,Excellent,High,79,Very Good,Poor,0,colleague,offer,9113,1,1,0,0
+18,M,31,9,2,Fair,High,77,Fair,Poor,1,spam,meeting,6805,0,0,0,1
+24,M,52,5,0,Fair,High,28,Good,Fair,1,friend,discount,404,0,0,1,0
+24,F,29,0,2,Good,High,25,Good,Fair,0,spam,meeting,1620,0,1,0,0
+23,M,38,7,1,Poor,High,34,Excellent,Poor,1,spam,prize,2952,1,1,1,1
+22,F,30,7,3,Excellent,Medium,78,Excellent,Good,0,friend,meeting,8080,0,0,0,0
+20,F,81,8,3,Good,High,66,Fair,Fair,0,spam,offer,3118,1,0,1,0
+21,M,99,8,3,Very Good,Medium,86,Poor,Excellent,0,friend,prize,7380,1,0,1,0
+23,M,1,1,1,Very Good,Medium,28,Very Good,Very Good,0,colleague,offer,6630,1,0,1,0
+20,M,77,1,2,Good,High,33,Poor,Fair,1,friend,discount,9786,0,1,0,0
+20,F,76,2,4,Excellent,High,96,Fair,Poor,0,friend,discount,565,0,1,1,1
+18,M,92,0,2,Good,Medium,40,Fair,Good,0,friend,prize,4799,0,0,1,1
+20,F,11,3,0,Excellent,Medium,40,Poor,Very Good,0,spam,discount,7670,0,1,0,1
+22,M,38,3,3,Fair,High,22,Very Good,Fair,0,friend,discount,2868,1,0,1,1
+24,F,65,8,2,Good,High,70,Poor,Good,0,friend,meeting,9049,0,1,1,0
+23,F,95,8,4,Excellent,Medium,2,Excellent,Good,0,friend,meeting,9476,0,1,1,1
+20,M,12,8,0,Good,Medium,57,Good,Good,0,colleague,discount,8776,0,0,0,1
+18,F,45,9,1,Good,Medium,31,Excellent,Poor,1,friend,discount,4327,0,0,0,1
+22,F,26,6,1,Excellent,Low,30,Good,Excellent,1,spam,meeting,6413,1,0,0,1
+19,M,16,1,4,Excellent,Medium,81,Fair,Good,1,friend,discount,7614,0,0,0,1
+24,F,94,9,0,Poor,Low,42,Very Good,Very Good,1,friend,discount,1245,0,1,1,1
+24,M,97,4,3,Good,High,6,Poor,Fair,0,colleague,offer,8243,0,1,0,1
+23,F,59,3,2,Very Good,High,0,Very Good,Very Good,1,friend,discount,537,1,0,0,1
+24,M,63,7,0,Good,Medium,60,Poor,Poor,1,spam,prize,540,0,1,0,0
+20,M,87,1,1,Good,High,13,Excellent,Poor,1,friend,offer,814,0,1,1,1
+18,F,34,5,4,Excellent,High,51,Excellent,Very Good,0,spam,prize,1415,0,0,1,0
+24,F,69,4,4,Good,High,95,Poor,Excellent,1,colleague,discount,1652,1,0,1,1
+24,F,82,1,2,Good,High,5,Very Good,Poor,1,friend,meeting,4062,1,1,0,1
+19,F,29,9,4,Very Good,Low,9,Poor,Poor,0,colleague,offer,2356,0,0,1,1
+19,F,70,0,4,Excellent,Low,70,Fair,Very Good,1,friend,meeting,3810,0,0,1,0
+21,M,73,7,0,Good,Medium,89,Excellent,Poor,0,spam,offer,9055,1,1,0,0
+22,F,95,1,3,Fair,Medium,97,Fair,Excellent,1,colleague,meeting,185,1,1,1,1
+20,M,97,6,2,Poor,Medium,29,Excellent,Excellent,0,friend,offer,1551,1,0,0,0
+24,M,62,8,0,Very Good,High,99,Excellent,Excellent,1,spam,offer,7013,1,1,0,1
+24,F,27,8,3,Good,High,20,Good,Fair,1,colleague,prize,761,1,0,1,0
+18,M,59,7,0,Fair,Low,59,Fair,Excellent,1,friend,meeting,9471,0,0,0,0
+21,M,78,9,0,Good,Low,80,Fair,Excellent,0,colleague,prize,6163,0,1,0,0
+22,M,93,8,4,Good,Medium,96,Good,Fair,1,friend,prize,7635,0,1,0,1
+21,M,36,1,3,Excellent,Low,73,Very Good,Good,0,spam,meeting,3281,0,0,0,0
+23,F,92,5,2,Excellent,Low,62,Fair,Poor,0,spam,offer,1536,1,0,0,0
+22,M,21,3,2,Excellent,Low,41,Poor,Excellent,0,colleague,prize,6201,1,0,0,1
+24,F,67,3,3,Fair,Low,50,Good,Poor,0,colleague,meeting,3164,1,1,1,0
+24,F,19,4,4,Good,Low,63,Fair,Very Good,1,friend,offer,2770,1,0,0,1
+22,M,95,2,1,Poor,Medium,75,Very Good,Poor,1,spam,prize,7399,1,1,0,1
+24,F,99,0,0,Very Good,Medium,55,Fair,Fair,1,friend,prize,3845,0,0,0,0
+20,F,67,7,4,Excellent,Low,79,Excellent,Poor,0,spam,prize,3435,0,1,0,1
+22,F,90,4,3,Excellent,Medium,40,Poor,Poor,1,colleague,offer,4710,0,0,1,0
+21,M,63,2,0,Good,High,31,Good,Poor,0,friend,prize,561,0,1,1,0
+22,F,16,9,2,Good,Low,14,Excellent,Good,0,friend,offer,4717,0,0,0,1
+24,F,11,6,1,Fair,High,61,Very Good,Good,0,spam,discount,7623,1,0,1,0
+20,F,21,6,2,Fair,Medium,26,Excellent,Very Good,1,spam,prize,7187,1,0,0,0
+20,M,16,0,3,Excellent,Medium,27,Excellent,Fair,1,spam,discount,2180,1,0,0,1
+23,F,9,8,0,Good,High,80,Very Good,Poor,0,colleague,meeting,1960,1,1,0,1
+21,M,64,1,3,Poor,Medium,63,Excellent,Poor,1,friend,prize,3879,1,1,0,0
+19,M,21,4,0,Very Good,Low,58,Good,Poor,1,spam,meeting,5153,0,1,1,1
+19,M,89,4,4,Good,High,57,Fair,Poor,0,colleague,meeting,7035,0,1,1,1
+22,M,81,7,1,Good,Low,1,Excellent,Good,0,spam,meeting,3270,0,1,0,1
+23,M,49,7,4,Fair,High,35,Good,Very Good,1,friend,discount,4687,1,0,0,1
+18,M,13,6,4,Very Good,Medium,70,Fair,Excellent,0,spam,offer,582,1,1,1,0
+22,F,63,6,3,Excellent,High,12,Fair,Fair,0,friend,discount,9805,1,1,1,0
+23,M,46,5,1,Good,High,14,Excellent,Poor,1,colleague,discount,9293,1,1,0,1
+21,F,28,5,0,Excellent,Low,88,Good,Very Good,1,colleague,meeting,288,0,1,1,0
+21,F,75,8,0,Good,Medium,86,Excellent,Excellent,0,spam,prize,5664,1,0,0,1
+21,M,35,5,2,Excellent,Low,59,Very Good,Very Good,1,friend,offer,7979,0,0,1,1
+21,F,98,1,0,Very Good,Medium,21,Fair,Good,0,friend,meeting,3859,1,0,1,0
+21,F,51,1,3,Fair,Low,62,Excellent,Excellent,0,friend,offer,3060,0,0,1,0
+23,F,75,4,4,Very Good,High,89,Fair,Very Good,1,spam,discount,1183,1,1,1,0
+23,F,6,3,4,Poor,Low,96,Good,Good,0,friend,offer,4335,1,1,0,0
+20,M,28,1,4,Fair,Medium,74,Poor,Very Good,0,friend,offer,1446,0,0,0,1
+19,F,10,2,1,Very Good,Medium,73,Excellent,Very Good,0,friend,prize,6679,0,0,1,1
+24,M,32,6,0,Poor,High,24,Excellent,Excellent,1,friend,meeting,9941,1,1,0,0
+21,F,5,7,3,Good,Medium,47,Fair,Good,1,spam,offer,6213,0,1,1,1
+18,F,78,5,1,Good,Low,42,Good,Poor,1,spam,offer,1903,1,0,1,0
+24,M,31,4,2,Excellent,High,37,Very Good,Fair,0,friend,discount,7894,1,0,0,0
+23,F,50,0,3,Fair,Medium,40,Good,Excellent,0,friend,discount,9269,0,0,0,0
+18,F,74,7,3,Good,Medium,44,Excellent,Good,1,colleague,offer,2377,1,0,0,1
+18,F,57,2,3,Fair,Low,87,Very Good,Very Good,1,colleague,meeting,847,1,1,1,1
+18,M,86,5,4,Good,Low,39,Good,Good,1,friend,offer,7370,0,1,0,0
+20,F,25,2,3,Excellent,High,96,Poor,Fair,0,friend,offer,6341,1,1,0,0
+23,M,97,6,0,Very Good,Medium,16,Fair,Fair,1,colleague,prize,1239,1,0,0,0
+18,F,45,6,3,Excellent,Low,87,Good,Poor,0,colleague,meeting,5600,1,1,0,0
+21,M,97,8,4,Poor,High,56,Good,Poor,1,friend,prize,9524,1,1,1,1
+22,M,28,4,3,Good,Medium,1,Poor,Fair,0,spam,meeting,4791,0,0,1,1
+18,F,3,7,2,Poor,Medium,95,Excellent,Excellent,0,spam,meeting,2365,0,0,1,0
+20,F,80,9,2,Poor,High,61,Fair,Excellent,1,friend,meeting,5055,0,0,1,0
+24,M,98,9,4,Fair,High,87,Good,Very Good,0,friend,prize,5622,1,0,1,1
+23,M,12,7,0,Good,Low,8,Very Good,Poor,1,colleague,prize,372,0,0,1,0
+20,F,38,0,0,Poor,Medium,67,Good,Very Good,0,colleague,prize,7783,0,0,1,1
+18,M,14,4,1,Very Good,Medium,80,Fair,Poor,0,spam,discount,1949,0,1,0,1
+23,F,28,2,4,Poor,Medium,16,Good,Fair,1,friend,prize,244,1,1,1,0
+22,F,28,0,3,Very Good,High,49,Poor,Excellent,0,colleague,discount,7795,0,1,1,1
+18,F,74,3,4,Fair,Low,93,Good,Excellent,1,spam,discount,5772,0,1,1,1
+20,F,31,7,1,Poor,Medium,39,Good,Fair,1,spam,discount,124,1,1,1,1
+19,M,1,2,4,Excellent,High,57,Very Good,Very Good,1,spam,offer,1919,1,1,0,1
+21,F,46,9,4,Fair,Medium,74,Poor,Very Good,0,colleague,offer,9827,1,0,1,0
+24,M,77,1,1,Very Good,Low,84,Poor,Good,0,colleague,offer,9617,1,0,1,1
+20,F,83,8,0,Fair,Medium,20,Good,Poor,0,friend,discount,9732,1,0,0,1
+23,M,21,9,3,Poor,Low,17,Very Good,Very Good,1,friend,discount,530,1,1,1,1
+18,F,74,4,1,Good,Low,54,Good,Fair,1,spam,meeting,7849,0,1,1,0
+21,M,26,6,2,Good,Medium,28,Good,Very Good,0,spam,discount,6929,0,0,1,0
+18,M,66,1,0,Very Good,Medium,23,Fair,Excellent,0,colleague,offer,4349,1,0,1,0
+23,F,80,8,2,Very Good,Low,73,Fair,Poor,1,colleague,discount,4756,1,0,1,1
+18,F,55,8,0,Good,High,16,Very Good,Good,0,friend,discount,1801,0,0,1,0
+19,F,91,3,3,Very Good,Low,17,Excellent,Poor,1,friend,meeting,5156,1,0,1,0
+21,F,92,3,3,Fair,Medium,41,Fair,Excellent,0,friend,discount,7856,1,1,0,0
+21,M,20,5,4,Excellent,Medium,83,Excellent,Excellent,1,colleague,prize,5461,0,1,0,1
+23,F,46,9,2,Excellent,High,44,Poor,Excellent,0,spam,meeting,9228,1,1,1,0
+24,M,79,9,0,Fair,Low,81,Fair,Excellent,0,friend,discount,5302,1,0,0,0
+19,M,58,9,3,Excellent,Low,16,Fair,Fair,1,friend,discount,7432,0,1,1,0
+20,F,83,5,1,Poor,Low,72,Very Good,Good,1,colleague,meeting,6189,0,0,0,1
+18,M,5,0,3,Fair,Medium,13,Excellent,Excellent,1,friend,discount,1142,0,1,1,1
+22,M,18,8,1,Very Good,Low,48,Fair,Excellent,0,spam,offer,7076,0,0,0,0
+18,M,56,1,0,Fair,High,28,Fair,Very Good,1,colleague,prize,7614,0,0,1,0
+18,M,68,4,3,Good,Medium,94,Very Good,Good,1,friend,prize,9947,1,1,0,0
+20,F,2,8,3,Very Good,Medium,3,Very Good,Poor,0,friend,offer,4840,1,1,0,1
+18,F,0,3,0,Good,Low,81,Excellent,Good,1,colleague,discount,1629,1,1,1,1
+19,F,57,2,3,Very Good,High,19,Poor,Good,1,colleague,discount,5062,1,1,1,0
+19,F,37,6,1,Excellent,Medium,46,Poor,Good,1,friend,prize,762,1,1,0,1
+21,M,14,5,3,Fair,Medium,8,Good,Excellent,0,spam,discount,6905,0,0,0,0
+23,M,33,7,2,Poor,Low,76,Fair,Excellent,0,colleague,prize,4889,1,1,1,1
+24,F,60,2,4,Very Good,Low,78,Excellent,Fair,0,spam,prize,4839,1,1,0,0
+22,F,34,4,1,Very Good,High,26,Fair,Poor,1,friend,offer,3957,1,0,1,1
+18,F,63,9,2,Good,Low,14,Excellent,Very Good,0,spam,prize,557,1,1,0,0
+18,M,24,3,0,Excellent,High,91,Excellent,Good,1,friend,discount,4621,1,0,0,1
+20,F,23,3,1,Good,Medium,18,Excellent,Poor,1,friend,discount,839,0,1,1,0
+23,F,11,3,4,Good,High,89,Fair,Poor,1,friend,meeting,8194,1,1,1,0
+19,F,17,9,4,Excellent,High,51,Very Good,Fair,0,friend,discount,9243,1,0,1,0
+22,M,14,7,0,Poor,High,25,Fair,Very Good,0,spam,meeting,9596,1,1,0,0
+21,M,79,5,0,Good,Medium,88,Excellent,Good,1,friend,prize,8348,1,1,0,1
+19,M,26,2,1,Good,Low,25,Good,Very Good,1,friend,discount,6998,1,1,0,0
+23,M,71,9,3,Very Good,Medium,25,Poor,Fair,0,spam,offer,510,1,1,1,1
+24,M,59,4,0,Excellent,Low,45,Excellent,Excellent,0,colleague,offer,1137,0,0,0,1
+21,M,45,5,3,Fair,High,91,Good,Poor,0,spam,offer,5606,1,0,0,0
+24,M,88,4,2,Poor,High,48,Very Good,Good,1,spam,prize,4666,0,1,1,0
+20,M,16,5,4,Poor,High,81,Excellent,Excellent,0,spam,prize,8906,0,1,0,0
+20,F,92,7,3,Excellent,High,95,Good,Fair,0,friend,meeting,5434,1,0,0,0
+18,F,52,6,4,Very Good,High,52,Excellent,Very Good,0,friend,offer,6446,1,0,1,1
+24,M,7,4,3,Very Good,Low,2,Fair,Poor,1,friend,meeting,2654,1,1,1,1
+23,M,78,9,2,Excellent,Low,65,Good,Good,0,colleague,meeting,990,0,0,1,1
+22,F,26,5,0,Very Good,High,96,Fair,Excellent,1,friend,discount,7820,1,0,1,1
+21,M,45,3,2,Poor,Medium,41,Fair,Excellent,1,colleague,discount,2160,1,0,1,0
+19,M,49,8,0,Poor,Medium,18,Good,Poor,1,friend,offer,5740,1,0,1,1
+23,M,70,3,0,Fair,High,16,Poor,Very Good,0,spam,prize,4457,0,1,1,0
+23,F,2,0,4,Excellent,Low,32,Good,Fair,0,friend,discount,2063,0,0,1,0
+20,F,92,6,2,Good,Medium,75,Poor,Very Good,0,colleague,prize,1977,1,1,1,1
+24,F,63,6,3,Good,Medium,48,Excellent,Very Good,1,colleague,meeting,8567,0,1,0,1
+18,F,43,3,2,Fair,Medium,55,Excellent,Very Good,0,friend,meeting,8933,1,0,1,1
+18,F,52,2,4,Fair,High,62,Good,Poor,1,spam,meeting,2667,0,1,1,1
+21,M,23,7,0,Very Good,Medium,2,Excellent,Poor,0,friend,meeting,9432,1,1,0,1
+20,F,59,4,4,Fair,Medium,48,Very Good,Fair,0,friend,offer,4919,0,0,1,1
+23,M,2,9,1,Fair,Medium,54,Fair,Very Good,0,friend,meeting,8609,1,0,0,0
+22,M,19,6,1,Good,Medium,25,Fair,Poor,0,spam,discount,7642,1,0,0,0
+20,F,45,3,3,Very Good,Low,98,Poor,Fair,1,colleague,meeting,8798,0,1,1,0
+21,F,14,3,4,Fair,High,71,Excellent,Fair,1,spam,prize,8759,0,1,0,1
+21,M,24,7,3,Fair,High,51,Poor,Very Good,1,colleague,discount,543,0,1,1,0
+20,M,93,7,3,Very Good,Low,99,Fair,Good,1,colleague,prize,883,0,1,1,0
+21,M,77,1,1,Excellent,Low,6,Fair,Very Good,0,colleague,prize,4798,0,0,0,0
+20,F,70,1,3,Very Good,High,45,Excellent,Good,1,spam,offer,8040,1,1,0,0
+19,F,16,2,1,Good,Medium,45,Very Good,Fair,1,friend,offer,9415,1,0,0,0
+20,F,83,2,0,Excellent,Medium,99,Very Good,Poor,1,friend,prize,5718,0,0,1,0
+24,F,99,0,4,Poor,High,15,Excellent,Excellent,0,friend,prize,2068,1,0,1,1
+20,F,8,2,3,Very Good,Medium,23,Excellent,Fair,1,friend,meeting,7478,1,0,0,1
+21,M,37,5,1,Good,Low,60,Poor,Poor,1,friend,discount,8120,0,1,1,1
+24,F,47,7,2,Excellent,Medium,53,Excellent,Fair,0,spam,meeting,7820,1,0,1,0
+21,M,59,9,3,Very Good,Medium,61,Very Good,Very Good,0,spam,offer,1786,1,1,0,1
+18,M,62,5,0,Fair,Medium,0,Excellent,Good,1,spam,offer,5715,0,0,0,1
+18,M,85,4,0,Very Good,High,48,Poor,Fair,1,spam,meeting,9649,0,0,0,0
+24,F,1,3,2,Poor,Low,24,Poor,Poor,0,spam,discount,8269,1,0,0,1
+19,F,87,2,1,Very Good,Medium,9,Poor,Very Good,1,spam,prize,1308,0,1,0,0
+18,F,71,3,3,Excellent,High,79,Poor,Excellent,0,spam,meeting,8839,1,0,0,1
+20,M,10,6,1,Excellent,Medium,15,Good,Very Good,1,friend,offer,8744,0,0,0,0
+21,M,63,0,0,Very Good,Low,57,Excellent,Good,1,colleague,discount,8473,0,0,0,0
+18,M,76,6,1,Excellent,Medium,71,Fair,Very Good,1,spam,offer,9473,0,0,0,1
+18,M,80,0,0,Fair,Low,28,Excellent,Excellent,1,colleague,discount,4861,0,1,0,0
+19,M,71,1,1,Very Good,Medium,91,Good,Poor,1,spam,discount,2776,1,1,1,1
+24,M,20,3,2,Fair,Low,5,Poor,Fair,0,spam,discount,1596,0,0,1,0
+24,F,17,0,4,Fair,Medium,15,Good,Good,0,friend,meeting,479,0,0,0,1
+23,F,93,8,2,Good,Low,19,Very Good,Excellent,1,colleague,meeting,3312,1,1,1,1
+19,F,63,5,2,Very Good,Medium,79,Very Good,Good,1,friend,meeting,6156,1,1,1,0
+20,F,81,0,4,Excellent,Medium,70,Excellent,Very Good,1,friend,discount,7919,1,1,1,1
+24,M,94,0,4,Fair,High,77,Excellent,Good,0,colleague,discount,6744,1,0,1,1
+21,M,37,5,3,Good,High,42,Fair,Excellent,0,friend,offer,3898,0,1,1,1
+19,F,31,3,3,Very Good,Low,25,Fair,Fair,0,spam,prize,2072,1,0,1,0
+18,M,10,3,2,Very Good,Medium,89,Very Good,Fair,0,spam,meeting,9487,0,1,0,0
+21,F,44,5,2,Poor,Low,77,Poor,Good,0,spam,discount,5624,1,1,0,1
+21,F,88,6,0,Poor,High,70,Good,Poor,0,spam,offer,938,0,0,1,1
+18,F,32,8,0,Fair,Low,32,Fair,Good,0,spam,offer,8176,1,1,1,0
+19,M,40,9,3,Poor,Low,25,Fair,Very Good,0,friend,offer,761,0,0,0,0
+18,F,7,4,3,Fair,High,44,Poor,Fair,1,friend,meeting,7254,0,1,1,1
+23,F,10,8,0,Excellent,Medium,83,Poor,Fair,0,spam,meeting,1669,1,0,1,0
+21,F,85,3,0,Fair,Low,62,Excellent,Fair,0,spam,prize,7128,0,1,1,0
+22,M,50,9,1,Poor,High,66,Good,Poor,0,friend,offer,3862,0,1,1,1
+22,M,87,1,1,Excellent,Medium,51,Poor,Poor,0,colleague,meeting,2685,0,0,1,0
+20,F,40,2,0,Poor,High,67,Fair,Excellent,1,friend,offer,6634,0,0,0,0
+24,M,16,0,1,Fair,Low,25,Fair,Good,0,friend,discount,1931,1,0,0,0
+18,M,75,5,4,Good,Medium,74,Very Good,Good,1,friend,offer,7308,0,0,1,1
+18,M,45,5,3,Very Good,Medium,1,Poor,Very Good,1,friend,prize,3939,0,1,0,0
+20,M,31,0,3,Poor,High,13,Excellent,Fair,1,friend,meeting,1126,1,1,1,1
+20,M,78,2,0,Fair,High,29,Good,Poor,0,colleague,discount,6021,1,1,1,0
+20,M,79,4,2,Excellent,High,48,Excellent,Very Good,0,spam,meeting,6437,1,1,1,0
+21,M,53,2,0,Poor,Medium,11,Fair,Very Good,0,spam,discount,7039,0,1,1,1
+23,M,85,9,1,Poor,Medium,89,Excellent,Poor,1,colleague,offer,5373,0,1,1,1
+18,M,91,2,2,Very Good,Low,43,Fair,Good,1,spam,offer,1203,1,0,1,1
+21,M,19,9,1,Fair,Medium,32,Fair,Fair,1,spam,prize,4135,0,1,1,1
+20,F,32,2,4,Good,Low,12,Fair,Good,1,spam,prize,8711,1,1,1,0
+18,F,73,4,1,Excellent,High,77,Fair,Very Good,0,colleague,discount,7904,0,0,1,1
+21,M,39,4,4,Fair,High,87,Fair,Fair,0,colleague,prize,2283,1,1,0,1
+23,F,31,3,4,Excellent,Medium,97,Very Good,Excellent,0,spam,prize,4558,0,1,1,1
+21,F,96,0,1,Poor,High,25,Excellent,Very Good,1,spam,prize,5347,1,1,0,0
+23,M,1,4,1,Very Good,High,20,Very Good,Good,1,spam,prize,7867,0,0,0,0
+20,M,96,9,4,Very Good,Medium,27,Very Good,Good,0,friend,offer,5944,1,0,1,1
+23,M,32,4,2,Good,Low,47,Poor,Good,0,friend,prize,8674,0,1,0,1
+18,F,76,3,4,Very Good,Medium,99,Poor,Poor,1,friend,offer,2477,0,0,1,1
+20,F,29,5,3,Poor,Low,39,Poor,Very Good,0,colleague,offer,3093,0,1,1,1
+18,M,32,9,4,Good,Medium,65,Good,Fair,0,spam,meeting,8534,1,1,1,0
+22,M,76,3,2,Fair,Medium,72,Poor,Good,1,colleague,offer,7207,0,1,1,1
+19,M,25,6,3,Very Good,High,86,Excellent,Good,1,colleague,offer,9654,0,0,0,0
+23,F,21,6,0,Good,Medium,78,Very Good,Poor,1,colleague,prize,9394,0,1,0,1
+19,F,65,1,0,Poor,Medium,76,Excellent,Fair,0,spam,offer,9813,1,1,1,1
+19,F,37,2,2,Excellent,Low,22,Poor,Very Good,1,friend,discount,6227,0,1,0,0
+23,F,89,0,4,Excellent,High,80,Good,Excellent,0,spam,prize,3535,1,1,0,1
+20,M,45,7,1,Poor,Low,47,Good,Poor,0,spam,prize,7004,0,1,0,1
+22,M,14,8,2,Poor,Low,1,Very Good,Very Good,1,colleague,prize,2913,1,0,1,1
+18,M,97,3,3,Excellent,High,83,Excellent,Excellent,0,colleague,meeting,9381,1,1,0,1
+21,M,43,5,3,Good,High,19,Fair,Good,1,colleague,prize,2340,0,0,0,0
+18,F,48,8,0,Excellent,High,58,Excellent,Good,1,friend,offer,9795,1,1,0,1
+21,F,74,5,3,Poor,Medium,45,Poor,Fair,0,friend,discount,5289,1,0,1,1
+18,M,60,8,2,Very Good,High,2,Fair,Excellent,0,friend,prize,597,0,1,0,0
+23,M,66,3,3,Fair,High,54,Good,Good,1,spam,prize,8836,1,1,0,1
+22,F,5,7,2,Very Good,High,11,Very Good,Good,1,colleague,discount,7145,1,0,1,0
+21,M,8,8,1,Very Good,Low,39,Very Good,Fair,1,spam,prize,2902,1,0,0,1
+24,F,5,3,0,Poor,Low,65,Good,Very Good,1,friend,meeting,6645,1,1,1,1
+20,M,72,4,3,Excellent,Medium,99,Poor,Good,1,colleague,offer,8955,0,0,1,1
+18,M,94,7,2,Good,Low,77,Good,Poor,1,friend,discount,7694,1,0,1,0
+18,M,31,9,4,Very Good,Medium,15,Poor,Poor,0,colleague,discount,4830,1,1,1,0
+21,M,40,5,0,Excellent,Low,82,Fair,Very Good,0,colleague,meeting,7546,0,1,1,1
+20,M,75,6,1,Good,High,33,Good,Excellent,0,spam,offer,7368,0,1,1,0
+20,M,7,2,2,Very Good,Low,43,Poor,Fair,0,spam,meeting,9834,1,1,0,1
+23,M,71,6,1,Good,Medium,5,Fair,Poor,1,friend,offer,2160,0,1,1,0
+24,F,49,7,1,Excellent,Low,76,Good,Poor,0,spam,meeting,5878,0,0,0,1
+23,F,91,9,3,Fair,High,63,Very Good,Very Good,0,spam,prize,7663,0,1,0,0
+23,F,61,5,3,Excellent,Medium,99,Good,Excellent,1,spam,meeting,3749,0,0,1,1
+23,F,83,9,2,Poor,High,21,Excellent,Excellent,0,colleague,discount,2922,0,1,0,0
+23,F,61,8,4,Good,High,17,Good,Very Good,1,spam,discount,6486,0,1,0,0
+23,M,6,5,2,Fair,Medium,11,Excellent,Poor,1,friend,discount,8112,0,0,0,0
+22,M,74,8,4,Good,High,51,Fair,Fair,1,colleague,meeting,8771,0,1,1,0
+20,F,83,3,1,Good,High,93,Good,Poor,1,colleague,discount,3804,0,0,0,1
+23,M,79,7,0,Very Good,Low,50,Fair,Excellent,1,spam,discount,4878,1,0,0,1
+20,F,3,3,2,Poor,High,70,Fair,Poor,0,colleague,prize,2368,1,0,1,0
+20,F,5,1,2,Good,High,95,Poor,Fair,0,friend,prize,8093,1,1,0,1
+19,M,57,9,4,Excellent,High,47,Fair,Good,0,friend,offer,3932,1,1,0,0
+22,M,21,8,1,Excellent,High,18,Fair,Poor,1,colleague,offer,5608,1,1,0,1
+23,M,25,4,1,Very Good,Medium,5,Good,Very Good,0,spam,offer,6635,0,1,1,0
+18,F,2,3,4,Poor,Low,83,Good,Good,0,spam,meeting,6395,0,1,0,1
+21,M,40,1,1,Poor,High,26,Very Good,Very Good,0,colleague,offer,6101,1,1,0,1
+24,F,59,0,3,Excellent,High,52,Poor,Very Good,0,friend,meeting,9292,1,0,1,0
+18,F,13,6,0,Fair,Medium,47,Fair,Very Good,1,colleague,meeting,9862,0,1,1,0
+22,F,74,5,2,Very Good,High,6,Poor,Poor,0,spam,offer,5531,1,1,1,0
+21,M,81,1,0,Very Good,Medium,58,Excellent,Excellent,1,spam,offer,4970,0,1,0,0
+22,M,11,7,2,Excellent,Low,68,Fair,Good,1,colleague,meeting,6344,1,1,1,0
+20,F,86,3,3,Excellent,Low,10,Poor,Fair,0,friend,prize,8408,0,0,1,1
+21,M,11,7,1,Fair,High,14,Very Good,Excellent,1,colleague,discount,375,1,0,1,0
+20,M,12,6,4,Fair,High,63,Very Good,Poor,1,friend,discount,7887,0,0,0,1
+18,M,24,4,3,Poor,High,2,Fair,Very Good,1,friend,discount,1609,1,0,1,0
+18,F,44,9,0,Very Good,Medium,68,Excellent,Fair,1,colleague,prize,2939,1,0,1,1
+21,F,18,9,4,Very Good,High,22,Very Good,Good,1,colleague,meeting,4062,0,1,1,1
+21,M,54,7,1,Excellent,High,52,Very Good,Excellent,1,friend,offer,1613,0,0,1,0
+23,F,99,8,3,Poor,Low,36,Excellent,Excellent,1,friend,meeting,6578,1,0,1,0
+22,M,44,4,4,Very Good,High,8,Poor,Fair,0,friend,meeting,7851,1,1,0,1
+23,M,7,9,3,Poor,Low,14,Very Good,Poor,0,friend,offer,3679,0,1,0,1
+22,M,92,4,3,Poor,High,2,Good,Good,1,spam,prize,7540,0,0,1,0
+23,M,52,1,1,Excellent,Low,92,Very Good,Fair,1,colleague,discount,9488,0,1,1,1
+20,F,54,4,2,Poor,High,69,Poor,Very Good,0,friend,discount,7074,1,1,1,1
+21,F,31,2,4,Fair,Low,16,Poor,Good,0,colleague,meeting,3996,1,0,0,1
+18,F,50,6,1,Fair,Medium,25,Fair,Excellent,0,friend,prize,4786,0,1,0,1
+22,M,43,9,3,Good,Low,20,Good,Fair,0,colleague,discount,5695,1,0,0,1
+22,M,81,4,1,Excellent,Low,71,Poor,Excellent,1,colleague,prize,9347,1,0,0,1
+18,M,69,7,2,Good,Low,20,Excellent,Excellent,1,friend,offer,6998,0,1,1,0
+23,F,17,0,4,Fair,High,10,Good,Excellent,0,friend,meeting,2366,1,0,1,0
+22,M,82,2,2,Good,High,37,Good,Poor,0,colleague,meeting,6764,0,0,1,0
+24,F,21,2,0,Excellent,High,71,Excellent,Excellent,0,colleague,prize,8976,0,1,1,0
+20,F,36,8,4,Excellent,Medium,87,Very Good,Very Good,0,colleague,discount,9273,1,1,0,1
+21,F,95,4,2,Poor,Medium,34,Excellent,Very Good,1,spam,prize,1614,1,1,1,0
+18,F,55,8,3,Very Good,Low,13,Excellent,Good,0,friend,offer,4555,0,1,0,1
+21,F,58,8,4,Poor,Medium,13,Very Good,Excellent,0,spam,discount,2416,0,0,0,1
+24,F,2,0,4,Excellent,Low,9,Very Good,Excellent,0,spam,discount,7288,0,1,1,0
+22,M,27,1,1,Fair,Low,11,Very Good,Fair,1,friend,prize,6862,1,1,0,0
+22,M,73,4,3,Fair,Low,37,Very Good,Poor,1,friend,offer,3653,0,0,0,1
+24,F,34,3,0,Poor,Medium,33,Very Good,Good,1,spam,discount,6639,0,0,1,0
+18,F,60,9,2,Excellent,High,40,Excellent,Excellent,0,friend,meeting,496,0,0,0,0
+20,M,92,8,1,Fair,Medium,9,Fair,Fair,0,colleague,offer,504,0,0,0,1
+19,F,53,6,2,Excellent,Low,16,Fair,Poor,0,colleague,discount,7699,1,1,1,1
+18,F,62,5,0,Fair,Low,16,Poor,Good,1,spam,prize,5733,1,1,0,1
+19,M,78,6,0,Excellent,Medium,66,Fair,Good,1,spam,discount,8055,0,0,0,1
+24,F,96,0,4,Good,Low,61,Fair,Excellent,0,friend,meeting,3216,1,0,1,1
+23,F,6,0,0,Excellent,Low,94,Excellent,Good,0,friend,offer,5688,1,0,0,1
+19,F,75,7,2,Excellent,Medium,0,Very Good,Fair,1,spam,discount,9600,1,0,1,0
+20,M,48,1,3,Poor,Medium,11,Very Good,Good,0,spam,meeting,4364,0,1,0,0
+23,M,93,9,3,Good,Medium,3,Excellent,Very Good,0,colleague,discount,6042,1,0,0,0
+19,M,84,8,4,Very Good,Low,41,Fair,Fair,0,colleague,discount,1477,1,1,1,1
+24,F,30,6,2,Poor,Low,12,Excellent,Poor,1,friend,offer,4960,0,0,1,1
+23,F,57,5,2,Very Good,High,97,Poor,Poor,0,colleague,prize,2397,0,1,0,0
+24,M,60,0,0,Fair,High,84,Very Good,Excellent,0,friend,prize,8301,1,1,1,0
+19,F,23,0,2,Very Good,Medium,85,Good,Excellent,0,friend,meeting,8841,1,1,0,0
+24,F,19,1,1,Excellent,High,3,Poor,Very Good,0,friend,meeting,6194,0,1,1,1
+20,F,36,5,0,Very Good,Low,81,Poor,Poor,1,colleague,meeting,7570,0,0,0,0
+19,F,3,5,1,Poor,High,68,Excellent,Poor,1,spam,offer,7730,0,1,0,0
+19,F,91,1,4,Poor,Low,18,Fair,Poor,1,spam,prize,1499,0,0,0,0
+19,M,19,0,3,Very Good,Medium,1,Very Good,Poor,0,colleague,meeting,7235,1,1,0,1
+18,F,59,9,4,Poor,Medium,11,Good,Good,1,spam,meeting,595,0,1,0,0
+18,M,23,4,3,Poor,Low,80,Poor,Fair,0,friend,discount,978,1,0,1,0
+18,F,49,4,4,Very Good,High,73,Good,Fair,1,spam,discount,730,1,0,1,1
+20,M,48,1,2,Good,Medium,97,Fair,Very Good,0,colleague,meeting,56,1,1,0,1
+23,F,50,5,1,Good,Medium,5,Fair,Good,1,spam,discount,2243,0,1,0,1
+24,M,95,8,3,Fair,High,7,Good,Poor,1,friend,discount,5879,0,0,1,1
+22,F,35,1,0,Poor,High,50,Very Good,Poor,1,friend,discount,1701,1,1,1,1
+19,M,97,9,1,Very Good,Low,10,Fair,Excellent,0,colleague,offer,7229,1,0,1,0
+24,F,99,1,0,Poor,High,62,Good,Excellent,0,colleague,meeting,1286,1,0,1,0
+19,M,65,2,1,Excellent,High,56,Poor,Very Good,0,colleague,meeting,8303,1,0,1,1
+20,F,78,6,1,Poor,High,11,Good,Poor,1,friend,discount,9393,1,1,0,1
+19,M,33,5,4,Poor,Low,72,Good,Very Good,0,spam,offer,947,0,1,0,1
+18,M,35,7,3,Good,Low,1,Excellent,Good,0,spam,discount,4121,0,0,1,1
+22,F,5,7,3,Very Good,Medium,7,Fair,Fair,0,colleague,offer,6553,0,0,1,0
+21,F,38,5,1,Poor,Low,10,Very Good,Poor,0,spam,meeting,757,1,0,1,0
+19,M,41,9,2,Good,Medium,52,Very Good,Good,0,spam,discount,5651,1,0,1,1
+24,F,57,2,2,Fair,High,99,Excellent,Poor,0,colleague,meeting,7273,0,1,1,1
+18,M,11,2,0,Good,Medium,9,Very Good,Excellent,1,colleague,offer,3535,0,0,1,1
+21,M,2,0,0,Good,Medium,84,Good,Very Good,1,friend,prize,2293,1,1,1,1
+22,M,17,6,4,Good,High,83,Excellent,Excellent,0,friend,offer,1104,0,0,1,0
+21,F,39,4,1,Poor,Medium,7,Poor,Fair,1,friend,prize,8853,0,1,1,1
+18,M,20,3,0,Poor,Low,35,Fair,Excellent,1,friend,meeting,908,0,1,0,1
+23,M,14,9,0,Fair,Low,92,Fair,Poor,0,spam,meeting,6539,1,1,1,0
+23,F,96,3,1,Excellent,Low,75,Fair,Excellent,0,spam,discount,4617,1,1,1,1
+21,F,98,3,4,Excellent,Low,13,Good,Poor,1,friend,prize,7069,0,1,0,0
+20,F,25,5,0,Excellent,Medium,53,Poor,Fair,0,friend,offer,2311,1,0,0,1
+24,F,7,7,4,Fair,Medium,84,Excellent,Excellent,1,colleague,meeting,789,0,0,0,1
+24,M,99,7,3,Excellent,High,85,Excellent,Very Good,1,spam,prize,171,0,1,1,0
+21,M,93,4,4,Excellent,Medium,20,Fair,Very Good,1,spam,offer,7989,1,0,1,1
+19,M,86,5,2,Good,Medium,49,Poor,Very Good,0,friend,prize,1885,1,0,1,0
+19,M,41,3,2,Poor,Medium,93,Poor,Excellent,1,spam,offer,8667,1,0,1,0
+24,F,43,8,4,Poor,High,38,Poor,Excellent,0,colleague,offer,1049,0,0,0,0
+24,M,13,7,2,Good,Low,19,Very Good,Excellent,0,colleague,offer,4129,0,0,1,1
+23,M,77,9,3,Good,Medium,87,Very Good,Poor,0,spam,offer,1161,0,0,1,1
+20,F,1,9,1,Good,High,86,Fair,Fair,0,friend,prize,815,1,0,0,0
+18,M,36,0,2,Poor,High,6,Poor,Very Good,0,spam,prize,3766,0,1,1,1
+19,M,68,1,2,Excellent,High,8,Poor,Poor,1,colleague,discount,8945,0,0,1,1
+24,M,37,8,4,Good,Low,0,Excellent,Very Good,0,friend,prize,4661,0,0,1,1
+23,M,40,7,3,Fair,Medium,25,Excellent,Poor,0,spam,prize,8653,0,0,1,0
+22,M,61,2,1,Good,High,37,Fair,Excellent,0,friend,discount,3239,1,1,0,0
+23,M,59,7,4,Very Good,Low,37,Poor,Very Good,0,friend,prize,8272,1,1,0,1
+19,F,13,0,4,Good,High,60,Fair,Excellent,0,colleague,offer,2804,1,0,0,0
+19,F,88,9,3,Poor,High,43,Excellent,Very Good,1,friend,meeting,8031,0,1,0,1
+23,M,83,3,1,Good,High,85,Excellent,Good,0,spam,meeting,869,0,1,1,1
+18,M,1,2,3,Very Good,High,43,Very Good,Poor,0,friend,discount,5526,0,0,1,1
+21,F,69,5,1,Fair,High,73,Fair,Good,1,friend,prize,7741,1,1,1,0
+19,M,16,6,3,Excellent,Low,61,Fair,Poor,0,spam,prize,4694,1,0,0,0
+23,M,88,3,4,Good,Medium,5,Poor,Fair,1,colleague,discount,8998,1,1,0,1
+24,M,27,6,4,Very Good,Medium,16,Poor,Very Good,1,colleague,meeting,1934,1,0,0,0
+23,F,65,8,0,Very Good,Medium,50,Very Good,Fair,1,spam,offer,5172,1,1,1,1
+20,M,34,1,2,Fair,Medium,37,Good,Fair,1,spam,prize,703,0,0,1,0
+21,F,4,2,3,Poor,Low,23,Good,Poor,0,colleague,discount,2523,1,0,0,0
+22,M,64,4,0,Good,Low,50,Good,Good,0,friend,offer,2639,1,1,0,0
+18,F,39,2,2,Very Good,Low,9,Fair,Excellent,1,spam,discount,6159,1,0,1,1
+22,F,75,7,3,Fair,High,71,Fair,Poor,1,friend,discount,3909,0,0,1,1
+21,M,55,9,1,Excellent,High,20,Excellent,Excellent,0,spam,discount,1164,1,1,1,1
+21,F,35,7,2,Very Good,High,69,Fair,Fair,1,colleague,meeting,619,1,0,0,0
+21,M,44,7,4,Fair,Medium,84,Fair,Excellent,1,friend,meeting,7982,1,0,0,1
+22,F,22,8,0,Poor,High,56,Fair,Good,1,friend,discount,3066,0,1,0,1
+24,M,46,3,2,Poor,Medium,38,Very Good,Poor,0,spam,prize,4872,0,0,0,1
+21,M,30,4,2,Very Good,High,87,Fair,Good,1,friend,offer,8638,1,1,1,1
+23,F,10,4,4,Very Good,Medium,32,Poor,Good,0,spam,prize,2337,1,0,1,0
+22,M,9,7,3,Good,High,58,Poor,Poor,0,colleague,meeting,8400,1,1,1,0
+21,M,66,6,1,Fair,High,17,Excellent,Good,0,friend,offer,5594,1,1,0,1
+23,F,13,8,4,Very Good,Low,55,Very Good,Very Good,1,spam,discount,2460,0,0,1,0
+24,M,79,7,1,Good,High,91,Poor,Very Good,1,friend,prize,6820,1,1,1,0
+20,M,73,1,3,Good,High,56,Very Good,Very Good,0,spam,prize,5546,0,0,1,0
+24,F,92,9,2,Very Good,Low,95,Very Good,Excellent,0,spam,discount,3442,1,0,1,0
+21,F,9,3,1,Poor,Medium,75,Excellent,Good,0,spam,prize,2711,0,1,1,0
+22,M,75,5,0,Fair,Low,47,Very Good,Poor,1,colleague,meeting,1291,0,0,0,1
+19,M,93,1,0,Fair,Low,41,Fair,Poor,1,friend,discount,5374,1,0,1,0
+21,F,0,6,4,Poor,Medium,26,Very Good,Excellent,0,colleague,prize,9592,0,1,1,1
+19,F,4,2,3,Very Good,High,73,Excellent,Poor,0,spam,discount,2655,1,0,0,1
+23,M,19,2,4,Fair,Medium,51,Excellent,Very Good,1,spam,offer,6513,0,0,0,1
+20,F,7,1,4,Very Good,High,41,Excellent,Good,0,colleague,discount,7394,0,1,1,0
+18,M,42,7,4,Very Good,High,31,Poor,Poor,1,colleague,prize,704,1,0,1,0
+24,M,75,5,0,Good,Medium,25,Fair,Poor,1,friend,meeting,825,1,0,1,0
+20,M,0,0,0,Poor,Low,24,Poor,Fair,0,spam,discount,9196,0,1,1,0
+21,M,56,0,4,Very Good,Medium,74,Good,Fair,0,colleague,discount,376,0,0,0,1
+19,M,63,6,0,Excellent,High,22,Fair,Fair,1,spam,prize,972,1,0,1,1
+24,F,83,7,3,Poor,Medium,97,Very Good,Good,1,spam,meeting,4213,1,1,0,1
+19,F,27,4,4,Fair,Medium,56,Excellent,Very Good,1,friend,meeting,443,1,0,1,0
+22,F,36,4,0,Good,High,51,Good,Very Good,1,friend,offer,7519,0,0,1,1
+19,F,46,3,1,Fair,Low,86,Fair,Very Good,1,friend,offer,754,1,1,1,1
+22,M,75,5,4,Fair,Medium,92,Poor,Good,0,colleague,prize,4735,1,1,0,1
+23,M,36,5,4,Poor,High,30,Excellent,Good,1,spam,meeting,5396,0,0,1,0
+24,M,48,2,3,Fair,High,63,Poor,Fair,1,colleague,meeting,3465,1,0,1,1
+24,M,43,8,2,Very Good,Medium,70,Fair,Poor,1,colleague,offer,2711,1,1,0,1
+18,F,55,6,2,Fair,Low,32,Fair,Excellent,0,friend,offer,2407,1,0,1,0
+21,M,27,0,3,Good,Medium,84,Good,Excellent,0,spam,prize,8814,1,0,0,1
+22,M,78,6,3,Good,Low,1,Very Good,Poor,1,spam,meeting,5588,0,0,1,0
+18,F,5,4,3,Excellent,Low,17,Poor,Fair,1,friend,discount,6104,1,1,0,1
+19,F,60,4,2,Good,Low,46,Good,Poor,0,spam,offer,5747,1,0,0,0
+19,F,19,1,3,Fair,Low,32,Excellent,Poor,0,friend,prize,1723,1,0,0,0
+18,F,77,3,0,Good,Medium,97,Very Good,Excellent,0,colleague,meeting,7224,1,1,1,0
+24,M,1,5,4,Poor,High,83,Good,Fair,0,colleague,meeting,1919,1,1,0,1
+19,M,72,9,4,Good,High,34,Poor,Good,1,friend,offer,918,1,1,0,1
+23,F,36,6,1,Very Good,High,50,Fair,Excellent,0,colleague,prize,4215,0,0,1,0
+23,M,19,4,1,Poor,High,17,Excellent,Good,1,colleague,discount,581,0,0,0,0
+18,M,25,8,4,Excellent,High,87,Poor,Fair,1,friend,offer,3881,0,1,1,0
+22,M,28,2,0,Very Good,High,71,Very Good,Poor,0,colleague,prize,9878,1,0,1,0
+22,F,0,0,2,Fair,Medium,29,Very Good,Very Good,0,spam,meeting,3909,1,0,0,0
+18,M,34,3,2,Fair,Low,43,Fair,Very Good,0,colleague,discount,1999,1,0,0,0
+22,F,69,8,0,Fair,High,52,Fair,Fair,0,friend,prize,400,0,0,1,0
+24,M,58,3,2,Very Good,Medium,9,Excellent,Very Good,1,spam,discount,3648,1,1,0,0
+24,M,68,1,3,Very Good,High,86,Excellent,Good,1,spam,prize,5445,0,1,0,0
+22,M,32,9,4,Very Good,High,51,Fair,Very Good,1,colleague,prize,2628,1,0,0,0
+23,F,50,4,4,Poor,Low,48,Fair,Fair,0,spam,prize,1656,1,1,0,0
+22,M,77,2,0,Poor,Low,10,Very Good,Fair,1,friend,prize,620,0,0,1,0
+24,F,11,8,2,Fair,Low,65,Fair,Good,0,spam,discount,246,0,0,1,1
+20,F,19,3,1,Good,High,57,Good,Very Good,1,colleague,offer,5212,0,1,0,0
+21,F,52,5,1,Fair,High,89,Poor,Very Good,0,colleague,discount,3339,0,1,1,1
+19,M,87,1,2,Excellent,High,35,Fair,Poor,1,spam,prize,6758,0,0,0,1
+20,M,42,5,1,Poor,Low,32,Excellent,Excellent,1,friend,discount,7086,0,0,0,1
+22,M,97,2,0,Very Good,Medium,46,Good,Fair,0,friend,discount,3010,1,0,0,0
+23,M,88,8,0,Poor,High,12,Excellent,Poor,1,colleague,discount,4719,0,0,0,1
+18,F,49,1,2,Very Good,High,39,Good,Fair,1,colleague,prize,2368,1,1,1,0
+22,F,28,8,1,Excellent,High,88,Fair,Poor,0,friend,discount,1839,1,1,0,1
+23,F,56,4,0,Excellent,Medium,67,Poor,Excellent,0,spam,meeting,2903,1,0,1,0
+21,M,38,7,0,Poor,High,41,Excellent,Poor,0,spam,prize,6205,1,0,0,0
+22,F,94,1,3,Very Good,Medium,18,Good,Fair,0,spam,discount,4395,1,1,1,1
+24,M,55,5,3,Excellent,High,81,Very Good,Very Good,0,spam,meeting,5767,0,0,1,1
+18,F,42,2,0,Fair,Medium,93,Fair,Fair,1,friend,discount,3691,0,1,1,0
+23,M,49,9,2,Fair,High,18,Poor,Good,0,colleague,offer,7470,0,0,1,1
+23,M,22,4,4,Very Good,Low,57,Fair,Good,1,colleague,discount,3841,1,1,0,0
+23,F,43,7,4,Poor,Low,22,Very Good,Good,1,spam,discount,4348,0,0,1,0
+21,F,37,9,0,Excellent,Low,53,Poor,Good,0,friend,offer,6621,1,0,0,0
+22,F,83,0,0,Poor,Low,79,Very Good,Excellent,1,friend,prize,1392,1,0,1,1
+21,F,22,4,0,Fair,High,64,Fair,Very Good,1,spam,offer,6060,1,1,1,0
+19,M,44,2,2,Excellent,Low,11,Good,Very Good,0,spam,prize,4255,1,1,1,0
+19,F,51,3,3,Poor,Medium,23,Fair,Fair,1,spam,offer,4300,0,0,0,0
+22,F,79,1,0,Good,Low,33,Fair,Poor,0,colleague,discount,3338,0,0,1,0
+24,F,49,8,0,Very Good,Low,52,Fair,Fair,0,spam,discount,5487,0,0,0,1
+21,M,7,2,1,Very Good,Low,7,Excellent,Fair,0,colleague,prize,3514,0,0,0,1
+18,M,84,1,2,Good,High,17,Very Good,Fair,1,friend,prize,759,0,1,0,1
+23,F,0,9,0,Fair,Low,56,Very Good,Fair,1,friend,meeting,9915,1,1,1,1
+23,M,7,8,1,Excellent,Medium,4,Very Good,Very Good,1,colleague,meeting,8621,0,1,1,0
+22,F,28,6,4,Very Good,Low,25,Excellent,Poor,1,colleague,discount,6793,1,0,1,0
+24,M,95,5,0,Good,Low,29,Good,Fair,0,colleague,discount,2459,1,0,1,0
+19,M,4,0,0,Good,Low,53,Fair,Very Good,1,colleague,meeting,5273,1,1,1,0
+19,M,85,4,1,Fair,Medium,12,Good,Fair,0,spam,meeting,1718,0,0,1,0
+23,M,46,2,2,Fair,Low,82,Excellent,Good,1,friend,prize,9457,1,1,1,0
+22,F,33,0,0,Poor,Medium,28,Very Good,Fair,1,spam,offer,5423,1,1,0,1
+21,F,64,3,4,Very Good,Medium,2,Fair,Fair,1,colleague,prize,1308,0,1,1,0
+19,F,54,1,0,Poor,Low,89,Poor,Excellent,1,spam,meeting,1050,1,1,0,0
+21,M,89,1,4,Good,Medium,57,Poor,Good,1,spam,discount,5479,1,0,0,0
+24,F,42,2,3,Excellent,High,75,Good,Poor,0,friend,meeting,2249,1,1,1,1
+19,F,73,7,3,Excellent,Low,1,Very Good,Fair,1,spam,discount,2809,0,0,1,0
+19,F,29,7,4,Fair,Low,74,Poor,Poor,1,friend,discount,2921,1,1,0,0
+20,M,81,6,2,Excellent,Medium,27,Good,Good,1,colleague,discount,4676,1,1,0,0
+19,M,16,5,0,Excellent,Medium,81,Excellent,Fair,1,spam,discount,4041,0,1,1,1
+18,M,25,8,0,Excellent,Low,76,Good,Excellent,0,colleague,offer,2417,0,1,0,0
+22,F,7,3,3,Good,High,85,Good,Very Good,1,friend,meeting,532,1,0,0,0
+22,F,46,0,4,Excellent,Medium,75,Good,Excellent,0,colleague,prize,9090,0,0,0,1
+21,F,75,7,0,Excellent,Medium,1,Fair,Excellent,1,colleague,discount,8167,0,0,0,0
+24,M,90,6,0,Excellent,High,6,Good,Very Good,0,friend,discount,1469,0,0,1,1
+19,M,71,6,2,Poor,High,25,Good,Very Good,0,colleague,prize,9444,0,1,1,0
+18,F,88,2,1,Good,Low,89,Fair,Very Good,0,colleague,prize,7292,0,0,0,1
+21,M,45,3,3,Fair,High,87,Fair,Fair,0,colleague,discount,8961,0,0,0,0
+20,M,67,9,3,Poor,Low,75,Excellent,Poor,0,spam,prize,9025,0,1,0,0
+21,M,32,8,1,Very Good,High,15,Very Good,Poor,1,colleague,prize,7142,1,0,1,1
+21,M,0,5,0,Good,Medium,22,Poor,Very Good,0,friend,offer,6000,0,0,1,0
+19,F,18,4,2,Good,Low,39,Poor,Excellent,1,spam,prize,7081,0,0,0,0
+20,M,30,2,2,Very Good,Low,59,Good,Good,0,spam,meeting,4649,0,0,0,1
+21,M,79,8,3,Very Good,Low,72,Excellent,Very Good,0,friend,meeting,6931,1,1,0,0
+18,M,13,4,2,Very Good,High,31,Good,Excellent,1,colleague,meeting,3424,0,1,1,1
+18,M,52,4,1,Fair,Medium,14,Poor,Excellent,0,spam,discount,1091,0,0,0,0
+22,F,47,3,0,Excellent,Low,12,Fair,Fair,0,spam,meeting,9388,1,1,0,1
+20,F,68,3,1,Good,Low,4,Very Good,Fair,0,spam,offer,9852,0,0,0,0
+20,M,89,0,4,Excellent,Low,74,Excellent,Poor,0,colleague,meeting,7849,1,0,0,0
+22,M,61,6,3,Excellent,Low,73,Fair,Poor,1,spam,discount,4654,1,0,0,1
+21,M,91,8,2,Very Good,Medium,51,Very Good,Good,0,friend,offer,260,0,1,1,0
+20,M,65,2,4,Fair,High,76,Excellent,Good,0,colleague,meeting,5936,1,1,1,1
+18,M,63,1,2,Poor,Medium,40,Excellent,Good,1,friend,offer,9377,0,1,1,1
+18,M,69,2,0,Fair,Low,52,Poor,Good,1,friend,offer,4370,0,1,0,1
+19,F,62,0,0,Excellent,Medium,49,Fair,Excellent,0,spam,discount,4301,1,1,1,0
+20,M,72,5,0,Fair,Low,14,Excellent,Excellent,0,spam,discount,7207,1,1,0,0
+21,F,32,6,2,Very Good,High,6,Excellent,Poor,1,spam,offer,5819,0,0,1,0
+22,F,40,1,4,Poor,High,39,Very Good,Fair,0,friend,meeting,9058,0,1,1,1
+22,M,88,7,0,Very Good,High,27,Poor,Fair,1,colleague,discount,92,1,0,0,1
+21,F,47,5,4,Poor,Low,31,Good,Very Good,0,spam,offer,5161,0,0,0,1
+24,F,12,3,2,Excellent,Medium,98,Poor,Excellent,1,spam,prize,7632,0,1,0,0
+23,F,72,4,4,Poor,High,14,Good,Good,1,friend,prize,9543,0,0,1,1
+19,F,76,7,2,Poor,Low,99,Fair,Good,1,colleague,discount,6208,1,0,0,0
+22,F,30,2,2,Poor,Low,84,Fair,Very Good,0,friend,meeting,8556,0,0,1,0
+20,F,74,2,3,Fair,Medium,69,Excellent,Fair,0,spam,prize,4916,0,1,1,0
+19,M,67,3,2,Fair,High,64,Fair,Good,0,friend,prize,3718,0,1,1,0
+20,F,97,0,2,Excellent,Low,3,Excellent,Fair,0,spam,prize,6125,1,0,0,0
+24,F,3,8,1,Poor,Medium,10,Poor,Very Good,1,colleague,meeting,1924,1,1,0,0
+18,F,18,7,0,Good,High,25,Fair,Fair,1,friend,meeting,3095,1,0,0,0
+19,M,69,7,3,Excellent,Medium,60,Poor,Fair,1,spam,discount,6683,0,1,1,0
+22,F,97,9,3,Poor,Medium,36,Poor,Fair,0,spam,discount,5181,1,0,1,1
+19,M,81,5,3,Poor,Low,22,Fair,Good,0,spam,prize,2538,0,0,0,0
+19,F,12,6,1,Fair,Low,92,Poor,Poor,0,spam,meeting,9488,1,1,1,0
+19,M,22,5,2,Excellent,Low,84,Fair,Excellent,1,friend,offer,2276,0,1,1,1
+23,M,82,8,0,Poor,Medium,90,Fair,Fair,0,spam,prize,8194,1,1,1,1
+19,F,74,2,4,Poor,Low,39,Fair,Fair,0,friend,discount,9945,0,1,0,1
+20,F,0,2,2,Excellent,Medium,76,Good,Fair,1,spam,meeting,910,0,1,1,1
+18,M,87,2,1,Good,Medium,22,Poor,Poor,1,friend,discount,306,1,0,1,0
+24,F,53,9,2,Excellent,Low,15,Very Good,Very Good,0,friend,discount,6575,0,0,0,1
+21,M,70,2,2,Excellent,High,93,Fair,Good,1,spam,meeting,4231,1,0,0,1
+19,M,88,8,1,Good,High,60,Poor,Poor,0,spam,prize,6028,1,1,0,1
+22,M,84,3,3,Excellent,High,67,Excellent,Fair,1,spam,meeting,6658,0,1,0,1
+19,M,14,6,3,Poor,Medium,79,Fair,Poor,1,spam,prize,6336,0,0,0,0
+22,M,64,8,0,Excellent,Medium,30,Fair,Poor,1,colleague,discount,9630,1,0,0,1
+20,F,75,6,0,Good,Medium,52,Very Good,Poor,0,spam,meeting,872,1,0,1,1
+22,M,70,8,3,Very Good,Low,24,Good,Very Good,0,spam,offer,1141,1,0,1,1
+21,M,14,2,4,Excellent,Medium,43,Good,Excellent,0,spam,prize,665,0,1,1,1
+18,F,20,3,2,Fair,Low,11,Fair,Good,1,friend,offer,8400,1,0,1,0
+22,M,18,7,4,Poor,Low,89,Poor,Very Good,1,spam,prize,951,0,1,0,1
+22,F,59,5,2,Poor,High,96,Excellent,Very Good,1,friend,meeting,9249,0,0,1,1
+18,F,92,4,3,Fair,High,91,Excellent,Excellent,1,friend,offer,4722,1,1,0,1
+21,F,88,3,0,Fair,High,8,Poor,Very Good,0,friend,meeting,4008,1,1,0,0
+19,M,32,7,0,Excellent,Low,11,Fair,Poor,0,friend,prize,6655,0,1,1,1
+22,M,48,0,4,Fair,Low,68,Excellent,Poor,0,colleague,prize,6190,0,1,1,1
+18,M,95,8,0,Very Good,Low,53,Good,Fair,1,spam,prize,771,0,0,0,0
+20,F,34,0,3,Good,Medium,53,Poor,Very Good,1,friend,prize,4030,0,0,0,1
+18,M,43,7,4,Fair,Low,27,Very Good,Fair,0,spam,discount,7859,1,0,0,0
+20,F,89,3,2,Fair,High,55,Fair,Good,1,friend,prize,521,0,1,0,0
+21,M,10,8,0,Very Good,High,98,Poor,Poor,0,colleague,offer,3355,1,0,1,1
+19,F,98,4,1,Poor,Low,68,Excellent,Good,1,friend,prize,1400,1,0,0,1
+18,M,71,2,0,Poor,Low,97,Fair,Excellent,1,spam,meeting,3723,1,0,1,0
+24,M,77,8,2,Excellent,High,97,Good,Poor,0,spam,discount,6579,0,1,0,0
+24,M,73,8,4,Very Good,Low,76,Fair,Good,0,colleague,offer,3247,0,1,0,1
+23,F,65,3,2,Good,High,57,Fair,Excellent,1,spam,discount,1858,1,1,0,0
+22,F,45,3,1,Good,Medium,77,Good,Good,0,spam,discount,4781,1,0,1,0
+21,M,8,7,3,Very Good,High,74,Good,Excellent,0,friend,discount,4064,1,0,0,1
+18,M,2,1,0,Good,Medium,41,Fair,Excellent,1,spam,meeting,2398,1,0,1,0
+24,F,84,8,4,Poor,Low,37,Good,Poor,1,friend,discount,142,0,1,1,0
+22,F,25,5,3,Good,Low,67,Poor,Fair,1,colleague,discount,5062,1,0,1,0
+24,F,71,8,2,Good,Medium,52,Good,Excellent,0,spam,prize,3469,0,1,0,0
+18,M,47,7,4,Very Good,Low,32,Good,Excellent,1,friend,meeting,3695,0,1,1,0
+20,F,65,6,3,Very Good,Medium,70,Fair,Poor,1,spam,offer,717,0,1,1,0
+18,M,69,0,4,Good,Low,55,Poor,Fair,1,friend,offer,642,0,1,0,1
+23,F,27,2,1,Fair,High,71,Very Good,Very Good,1,colleague,offer,2548,1,0,0,0
+18,M,92,1,1,Very Good,Low,50,Very Good,Very Good,1,friend,meeting,8561,0,0,1,1
+18,F,25,4,0,Excellent,High,73,Excellent,Fair,0,spam,offer,3650,1,1,1,1
+23,F,24,4,0,Excellent,High,42,Good,Good,1,friend,meeting,7549,0,0,0,1
+21,F,11,4,1,Poor,Medium,14,Good,Poor,1,spam,prize,8978,1,1,1,1
+18,F,4,3,4,Good,Low,37,Poor,Fair,0,colleague,prize,949,1,0,1,1
+23,F,97,4,1,Fair,Medium,14,Very Good,Very Good,1,friend,meeting,5444,1,0,1,1
+22,M,47,2,0,Poor,Low,4,Excellent,Excellent,1,spam,offer,521,1,1,0,1
+20,F,36,0,1,Good,High,92,Poor,Very Good,0,spam,meeting,6632,1,1,1,1
+20,F,78,4,1,Very Good,High,82,Good,Excellent,1,spam,meeting,6048,0,1,0,0
+18,F,43,8,4,Excellent,Low,53,Very Good,Poor,0,friend,discount,354,1,1,0,1
+21,M,99,8,3,Fair,Low,50,Excellent,Excellent,1,friend,meeting,1482,0,0,0,1
+21,F,14,3,0,Excellent,Medium,9,Fair,Fair,0,friend,discount,9839,1,1,1,1
+22,M,42,2,4,Very Good,Low,11,Very Good,Excellent,0,colleague,prize,6994,0,0,0,0
+18,F,47,0,1,Good,Low,3,Excellent,Good,1,spam,discount,2215,0,1,1,1
+20,F,86,1,1,Very Good,Low,94,Poor,Fair,0,spam,meeting,4716,0,0,0,0
+21,M,69,7,3,Very Good,Medium,17,Fair,Poor,0,colleague,prize,8619,1,1,1,1
+18,F,45,0,0,Excellent,Low,79,Excellent,Fair,1,colleague,discount,5821,0,0,1,1
+24,M,42,7,0,Fair,High,35,Excellent,Good,1,friend,meeting,2537,1,0,1,0
+21,M,20,6,2,Very Good,Medium,24,Good,Poor,0,friend,prize,6339,1,0,0,1
+23,F,22,7,0,Excellent,Medium,86,Very Good,Very Good,1,friend,discount,8736,0,1,1,0
+24,M,79,5,3,Fair,High,75,Good,Good,0,friend,meeting,4919,0,1,1,0
+21,F,46,8,2,Good,High,97,Fair,Poor,0,friend,meeting,7075,1,1,0,1
+20,F,14,2,2,Good,High,35,Excellent,Excellent,1,friend,offer,3765,1,1,0,1
+19,M,24,9,1,Poor,Low,66,Good,Fair,1,colleague,offer,8850,1,0,1,0
+24,M,35,3,1,Excellent,High,8,Very Good,Poor,0,colleague,discount,7082,1,0,0,0
+22,M,74,5,0,Fair,Low,60,Fair,Fair,1,colleague,discount,2827,1,0,0,1
+22,M,50,7,2,Very Good,Medium,52,Poor,Excellent,1,spam,discount,2058,1,1,0,1
+20,F,14,4,1,Good,Medium,17,Good,Poor,0,spam,meeting,7749,0,0,1,1
+21,F,67,2,3,Fair,High,42,Fair,Very Good,0,friend,discount,730,1,0,0,0
+18,M,20,5,1,Excellent,Low,34,Poor,Good,0,colleague,meeting,1832,1,1,1,1
+21,F,12,3,1,Poor,High,62,Good,Poor,0,spam,discount,8600,0,1,0,0
+20,F,85,8,2,Good,High,97,Fair,Excellent,0,spam,meeting,6505,0,0,0,1
+22,F,18,2,2,Fair,Low,77,Fair,Poor,0,colleague,meeting,7170,0,1,1,0
+21,F,33,3,4,Fair,High,3,Good,Fair,1,spam,offer,4179,1,1,0,0
+22,M,77,6,3,Fair,Medium,92,Fair,Poor,0,spam,prize,6299,0,1,0,1
+24,M,67,6,2,Excellent,High,40,Excellent,Very Good,1,colleague,meeting,7830,0,1,0,0
+18,F,51,3,0,Excellent,Low,44,Good,Poor,1,spam,discount,4802,1,0,0,0
+24,M,26,5,3,Excellent,Low,49,Fair,Good,0,colleague,offer,6057,1,0,1,0
+22,M,28,2,3,Very Good,Medium,78,Poor,Poor,1,spam,discount,6615,1,0,1,0
+22,M,27,5,2,Fair,Low,27,Poor,Fair,0,colleague,discount,6762,1,0,1,0
+19,F,34,1,3,Good,Low,41,Excellent,Poor,1,spam,meeting,5543,0,0,1,1
+19,F,7,7,2,Excellent,Medium,79,Good,Very Good,0,spam,meeting,8325,1,1,1,1
+24,F,15,1,1,Excellent,High,75,Fair,Excellent,0,colleague,prize,4883,0,0,1,0
+23,M,35,6,4,Fair,Medium,68,Fair,Poor,0,spam,meeting,7050,1,0,1,1
+24,F,29,8,1,Excellent,High,97,Poor,Poor,0,colleague,meeting,4959,0,1,0,0
+19,F,17,0,2,Very Good,Medium,0,Excellent,Good,1,colleague,prize,666,1,1,1,0
+22,M,1,7,2,Very Good,High,38,Poor,Very Good,1,spam,discount,276,1,1,1,1
+20,F,48,6,1,Excellent,Medium,95,Poor,Excellent,1,friend,prize,881,1,0,1,0
+24,F,76,5,0,Fair,High,89,Excellent,Fair,1,spam,prize,2060,0,1,0,0
+22,M,3,5,0,Fair,Medium,16,Good,Poor,1,friend,prize,2082,0,1,1,0
+20,M,89,5,0,Fair,High,90,Fair,Excellent,0,friend,offer,6702,0,1,1,1
+20,M,88,8,2,Poor,Medium,87,Good,Fair,0,spam,discount,9429,1,0,1,1
+19,F,93,1,3,Excellent,Low,34,Very Good,Very Good,0,friend,offer,158,0,1,0,0
+24,F,74,0,2,Fair,High,45,Very Good,Very Good,0,colleague,offer,5229,1,1,1,0
+21,F,6,5,3,Very Good,Medium,41,Very Good,Excellent,0,colleague,meeting,7956,1,0,0,0
+18,M,94,9,1,Good,High,38,Excellent,Fair,1,friend,prize,7514,1,1,0,0
+19,M,73,7,4,Good,High,89,Poor,Very Good,0,colleague,prize,7803,0,0,0,0
+19,F,38,2,3,Fair,Medium,48,Good,Excellent,0,spam,offer,2526,1,0,0,1
+21,F,12,9,0,Good,High,61,Fair,Very Good,1,colleague,meeting,8302,0,1,1,1
+18,M,30,0,2,Good,Medium,37,Very Good,Very Good,1,friend,meeting,7803,1,0,0,1
+22,M,70,8,1,Poor,Low,22,Good,Very Good,0,spam,meeting,6574,1,1,0,1
+23,M,62,0,0,Very Good,High,21,Very Good,Good,0,colleague,discount,8733,1,1,1,0
+24,M,55,2,1,Very Good,Low,3,Very Good,Fair,1,spam,offer,1138,0,1,0,0
+23,F,41,7,4,Poor,High,48,Fair,Excellent,0,friend,discount,7257,0,1,0,1
+22,M,60,2,2,Poor,High,58,Excellent,Excellent,0,colleague,meeting,3283,1,0,0,1
+19,F,41,3,2,Good,High,72,Poor,Fair,0,spam,meeting,7762,0,1,0,0
+18,F,55,7,4,Excellent,Medium,67,Excellent,Fair,1,spam,meeting,7896,0,1,0,1
+19,F,35,0,2,Good,Low,70,Good,Fair,0,colleague,prize,2419,1,1,0,0
+20,M,83,5,3,Poor,High,86,Excellent,Fair,0,spam,offer,1756,1,0,1,0
+19,M,67,0,1,Very Good,Medium,1,Good,Poor,1,spam,prize,2306,0,0,1,0
+19,M,6,0,0,Good,High,48,Good,Excellent,1,friend,discount,7630,1,1,1,1
+22,M,53,7,4,Excellent,Medium,87,Poor,Poor,1,friend,prize,6263,1,0,1,1
+22,F,0,3,3,Good,High,94,Fair,Very Good,0,friend,offer,9167,0,0,0,1
+22,M,43,0,0,Fair,Low,30,Poor,Very Good,1,friend,prize,5008,0,1,0,1
+23,M,44,9,0,Good,Low,39,Excellent,Excellent,0,friend,meeting,5247,1,1,0,1
+20,F,46,6,4,Poor,High,47,Good,Very Good,1,friend,discount,8914,0,1,1,0
+22,M,12,4,3,Very Good,Medium,50,Very Good,Fair,0,colleague,discount,2570,0,1,1,1
+18,F,21,4,0,Very Good,High,42,Very Good,Poor,1,friend,meeting,5807,1,1,0,0
+23,F,20,0,0,Poor,Medium,97,Good,Fair,0,spam,meeting,7812,1,0,0,0
+21,F,85,9,3,Fair,High,54,Poor,Very Good,0,colleague,meeting,324,1,1,1,0
+18,F,91,5,2,Poor,Medium,87,Fair,Poor,1,spam,offer,7487,1,1,1,1
+24,F,8,8,0,Good,Low,48,Poor,Fair,1,friend,prize,9721,0,1,1,1
+24,F,25,8,1,Poor,High,89,Good,Excellent,0,friend,discount,5645,0,1,1,1
+18,F,8,7,3,Poor,Low,79,Good,Fair,1,spam,prize,1945,1,1,0,1
+22,F,14,4,0,Fair,Low,56,Fair,Very Good,0,spam,meeting,4486,1,0,1,1
+21,M,9,0,4,Good,High,76,Excellent,Poor,1,spam,meeting,2430,1,1,1,1
+21,M,87,8,1,Excellent,High,14,Excellent,Excellent,1,colleague,prize,3510,1,0,0,1
+23,M,41,0,0,Excellent,Medium,26,Fair,Poor,0,friend,discount,845,0,1,0,1
+21,M,71,7,1,Very Good,Medium,67,Excellent,Excellent,1,spam,offer,567,0,1,0,0
+24,F,23,4,1,Poor,Low,79,Very Good,Poor,1,friend,prize,2179,1,1,1,1
+20,M,79,2,2,Very Good,Medium,63,Excellent,Very Good,0,spam,meeting,2019,1,0,1,0
+22,F,48,6,1,Fair,Medium,93,Excellent,Excellent,0,friend,meeting,3319,0,1,1,0
+21,M,25,6,2,Excellent,High,29,Excellent,Good,1,colleague,offer,2320,0,1,1,0
+23,M,90,8,3,Poor,Medium,35,Very Good,Poor,0,friend,prize,1646,0,1,0,0
+24,M,36,6,2,Fair,Low,66,Excellent,Poor,1,spam,offer,3909,0,1,0,1
+20,F,67,2,4,Fair,Medium,85,Very Good,Fair,1,friend,offer,8015,1,1,1,1
+19,M,49,0,0,Poor,Low,85,Fair,Excellent,0,colleague,discount,3420,0,1,1,0
+19,F,23,7,3,Fair,High,48,Poor,Good,0,colleague,discount,356,0,1,1,0
+20,F,18,2,3,Poor,Low,75,Fair,Very Good,0,friend,meeting,7485,0,0,0,0
+24,M,99,7,4,Poor,Medium,54,Poor,Fair,0,spam,prize,3081,1,1,1,1
+23,M,59,7,2,Good,High,84,Fair,Good,0,colleague,discount,2280,1,1,0,0
+20,M,38,4,0,Very Good,Medium,55,Poor,Excellent,0,colleague,meeting,4131,0,1,1,0
+22,F,73,0,2,Fair,High,67,Poor,Good,1,friend,prize,5123,0,0,0,1
+22,M,88,9,1,Fair,High,94,Good,Poor,1,colleague,meeting,7422,1,0,0,0
+19,F,17,6,2,Good,Medium,43,Poor,Poor,0,colleague,discount,2787,1,1,1,1
+21,F,18,9,3,Good,Medium,30,Poor,Fair,1,spam,meeting,4209,0,0,0,1
+23,M,35,4,0,Good,High,57,Good,Excellent,1,spam,prize,6540,1,1,0,0
+19,M,73,7,2,Excellent,High,86,Excellent,Excellent,1,spam,prize,9389,0,1,1,0
+21,F,96,8,0,Excellent,Medium,52,Excellent,Good,1,friend,meeting,9470,1,0,0,0
+21,F,54,6,0,Excellent,Low,83,Good,Fair,0,colleague,prize,465,0,1,1,1
+22,F,68,6,1,Poor,Medium,78,Very Good,Excellent,1,friend,meeting,1487,0,0,0,1
+24,M,46,0,1,Fair,High,22,Poor,Poor,1,colleague,prize,4942,1,0,0,1
+18,F,48,3,3,Very Good,Medium,27,Poor,Good,0,colleague,meeting,4597,0,0,0,0
+24,M,98,1,4,Poor,Low,15,Good,Very Good,0,colleague,meeting,4536,1,1,0,0
+18,F,97,1,0,Fair,Medium,36,Good,Poor,0,spam,meeting,325,1,1,1,0
+20,F,32,1,4,Fair,High,20,Very Good,Fair,0,friend,offer,9957,1,1,1,0
+22,M,20,3,3,Good,Medium,78,Excellent,Excellent,1,friend,prize,4162,0,1,1,0
+21,F,80,0,0,Good,High,16,Fair,Poor,0,colleague,discount,303,0,1,0,0
+23,M,21,3,0,Poor,High,36,Excellent,Very Good,1,friend,meeting,5067,0,1,0,1
+18,M,47,1,4,Good,Medium,76,Poor,Very Good,1,spam,offer,5024,1,1,1,1
+24,F,36,4,2,Fair,High,18,Good,Fair,0,friend,discount,7715,0,0,1,1
+21,M,14,2,1,Good,High,29,Very Good,Poor,0,colleague,meeting,9632,0,1,1,0
+18,M,34,7,2,Excellent,Low,44,Excellent,Good,0,spam,discount,8340,0,1,1,1
+18,F,91,3,4,Good,Low,17,Very Good,Poor,0,spam,offer,2631,0,1,0,1
+18,M,70,0,1,Fair,Low,77,Excellent,Very Good,0,colleague,discount,6391,1,0,1,1
+23,M,31,0,2,Poor,Low,61,Poor,Fair,0,friend,meeting,8287,0,0,0,0
+22,M,10,9,1,Very Good,High,35,Fair,Fair,1,colleague,discount,2369,1,0,1,0
+23,F,9,2,0,Good,Medium,99,Very Good,Good,1,friend,discount,528,1,1,0,1
+19,M,72,8,2,Fair,High,83,Very Good,Fair,1,friend,meeting,4675,1,0,1,0
+21,F,77,6,1,Very Good,High,51,Fair,Fair,1,spam,offer,1663,1,0,1,0
+22,F,76,1,1,Very Good,High,18,Very Good,Fair,0,colleague,offer,3364,0,1,0,0
+22,M,56,8,1,Excellent,Medium,43,Very Good,Fair,0,spam,discount,2341,0,1,0,0
+22,M,24,9,2,Very Good,Low,6,Excellent,Fair,1,colleague,prize,6656,0,1,1,1
+24,M,1,1,3,Fair,High,43,Excellent,Very Good,1,colleague,discount,4905,1,0,0,0
+22,F,63,2,2,Fair,High,67,Fair,Poor,1,spam,prize,8884,0,1,1,1
+23,M,34,9,4,Good,Low,33,Poor,Excellent,0,colleague,discount,9143,1,1,0,1
+22,M,6,1,2,Good,High,65,Very Good,Fair,0,colleague,offer,5950,0,1,1,0
+20,M,84,2,1,Good,Medium,68,Poor,Excellent,0,friend,discount,1360,0,1,1,0
+21,M,17,5,0,Very Good,High,54,Fair,Excellent,1,colleague,discount,5127,0,1,1,0
+22,M,66,8,2,Very Good,High,9,Fair,Very Good,1,colleague,prize,5562,1,1,1,1
+21,F,41,8,2,Excellent,Low,95,Excellent,Fair,0,spam,offer,8730,0,0,1,1
+20,F,38,6,1,Good,High,41,Very Good,Excellent,0,spam,prize,9011,1,1,1,1
+20,M,40,2,0,Poor,High,40,Good,Fair,1,colleague,discount,5777,1,0,1,1
+21,M,74,3,0,Excellent,Medium,76,Fair,Good,1,friend,meeting,3925,1,0,1,1
+18,M,23,5,4,Poor,Low,68,Very Good,Good,0,friend,discount,8463,0,1,0,1
+19,M,59,4,2,Very Good,Low,9,Poor,Good,1,spam,discount,8001,0,0,0,1
+24,F,45,1,0,Excellent,Medium,9,Excellent,Excellent,0,colleague,prize,1028,1,0,0,0
+18,M,18,5,0,Excellent,High,90,Poor,Good,0,colleague,meeting,6018,1,0,1,1
+18,F,67,2,3,Fair,Low,59,Fair,Very Good,1,friend,meeting,1242,1,1,1,1
+23,F,89,7,3,Very Good,Low,50,Fair,Very Good,1,friend,prize,9333,1,0,1,1
+24,M,41,1,0,Very Good,High,20,Poor,Excellent,1,friend,offer,8784,1,0,0,1
+24,F,31,0,4,Excellent,High,7,Fair,Fair,0,spam,meeting,7119,0,0,0,0
+18,F,38,8,0,Very Good,Low,64,Very Good,Poor,1,colleague,meeting,9797,0,0,0,1
+22,F,35,2,1,Excellent,High,91,Fair,Fair,1,spam,prize,4210,0,1,0,1
+23,F,96,0,2,Fair,Low,77,Excellent,Fair,0,colleague,offer,6406,1,1,0,0
+23,M,35,6,4,Excellent,High,84,Very Good,Fair,0,spam,offer,3377,1,0,1,0
+20,M,2,9,1,Very Good,High,29,Good,Fair,1,colleague,discount,4071,0,1,0,1
+24,F,72,4,4,Very Good,Medium,84,Fair,Poor,0,friend,discount,1440,0,1,1,1
+18,M,7,4,1,Excellent,High,48,Fair,Good,0,friend,prize,3626,1,0,1,1
+20,M,96,0,2,Excellent,Medium,8,Excellent,Fair,0,friend,offer,184,1,1,1,1
+21,M,69,8,2,Excellent,High,16,Excellent,Very Good,1,spam,prize,4996,1,1,0,1
+19,M,40,6,3,Good,Low,68,Poor,Excellent,1,friend,discount,8412,0,0,0,1
+23,M,67,7,1,Very Good,Low,57,Poor,Excellent,0,colleague,prize,8031,1,0,1,0
+21,F,12,8,3,Very Good,High,56,Poor,Very Good,0,spam,prize,5563,1,1,0,0
+21,M,48,5,1,Good,High,61,Excellent,Fair,0,colleague,meeting,3188,1,1,0,1
+22,M,59,4,3,Excellent,Low,94,Poor,Poor,1,spam,meeting,9285,0,1,1,1
+19,M,1,5,2,Fair,High,51,Poor,Good,0,colleague,meeting,2945,1,1,1,1
+21,M,59,1,4,Excellent,Medium,60,Good,Excellent,0,colleague,discount,6765,0,0,1,0
+21,F,4,3,3,Excellent,Medium,39,Poor,Good,1,spam,prize,2474,1,0,1,1
+19,F,43,2,1,Good,Medium,37,Fair,Poor,0,spam,meeting,6787,1,0,1,0
+19,F,26,6,1,Very Good,Medium,42,Excellent,Excellent,1,friend,meeting,8792,0,0,0,0
+21,F,31,8,2,Excellent,Medium,62,Very Good,Good,1,friend,meeting,9352,1,0,1,1
+19,M,20,4,1,Very Good,High,18,Good,Poor,1,colleague,discount,4599,0,1,0,0
+21,F,7,5,0,Poor,High,99,Excellent,Good,0,colleague,discount,6274,1,1,0,1
+21,M,71,9,4,Very Good,Medium,49,Excellent,Fair,0,colleague,prize,4313,0,0,1,0
+22,M,49,1,3,Fair,High,32,Fair,Poor,1,spam,prize,2218,1,0,1,1
+18,M,66,2,4,Fair,High,12,Poor,Good,0,spam,prize,1152,0,0,0,1
+21,M,43,2,2,Excellent,Medium,77,Fair,Fair,1,friend,meeting,56,0,1,1,0
+20,M,57,8,3,Very Good,High,96,Poor,Fair,0,colleague,offer,9396,1,1,0,0
+23,F,2,6,3,Excellent,High,61,Poor,Poor,1,friend,discount,143,0,1,1,0
+24,F,85,7,0,Good,High,92,Excellent,Very Good,1,spam,meeting,7218,1,0,1,1
+18,F,69,9,2,Fair,Medium,42,Poor,Excellent,0,spam,meeting,8559,0,0,0,0
+18,F,1,8,1,Excellent,High,48,Good,Poor,0,spam,prize,9674,1,0,0,0
+18,M,86,5,0,Good,Low,35,Good,Fair,0,friend,prize,6361,1,0,1,1
+22,F,43,3,0,Excellent,Low,9,Good,Fair,0,spam,meeting,615,1,0,1,1
+21,M,1,0,4,Very Good,Medium,94,Excellent,Poor,1,colleague,discount,8062,1,1,1,0
+22,F,80,7,4,Very Good,Low,5,Fair,Very Good,1,friend,discount,5977,0,0,0,0
+21,M,34,6,4,Very Good,Medium,56,Very Good,Excellent,0,spam,meeting,9780,1,1,1,0
+22,M,97,1,0,Very Good,Low,0,Poor,Good,0,friend,offer,6984,1,1,1,1
+22,F,86,7,1,Poor,Low,70,Very Good,Poor,1,friend,offer,8890,1,1,1,1
+23,M,29,4,3,Good,Low,57,Fair,Excellent,0,spam,discount,4971,1,1,1,0
+20,M,7,6,4,Good,Medium,90,Fair,Excellent,0,spam,prize,5781,1,1,0,1
+22,F,21,3,1,Very Good,Medium,20,Excellent,Fair,0,friend,offer,944,0,0,0,0
+23,M,43,4,2,Poor,High,91,Good,Good,0,friend,offer,9114,1,0,0,0
+19,F,57,7,4,Very Good,Medium,79,Good,Poor,1,spam,prize,7078,0,0,1,1
+20,F,35,0,3,Poor,Low,55,Fair,Fair,1,colleague,offer,1746,0,1,1,0
+22,F,68,0,2,Very Good,Low,86,Excellent,Fair,0,friend,meeting,5783,1,1,1,0
+24,M,76,3,2,Fair,Medium,19,Excellent,Very Good,1,friend,offer,9751,1,1,0,1
+18,M,92,2,3,Fair,Medium,53,Poor,Excellent,0,colleague,prize,6907,0,1,0,0
+19,M,30,9,4,Excellent,Medium,24,Good,Poor,0,spam,meeting,9275,0,1,0,0
+19,F,46,1,0,Very Good,High,27,Fair,Poor,0,spam,offer,8625,0,1,0,1
+23,M,54,2,3,Good,Low,4,Very Good,Poor,1,colleague,discount,2926,1,0,1,0
+19,F,79,0,3,Excellent,High,20,Good,Fair,1,spam,meeting,1089,0,1,0,0
+20,F,61,0,3,Fair,High,17,Poor,Very Good,1,spam,meeting,2957,0,1,0,1
+22,M,29,5,2,Very Good,Low,46,Excellent,Good,1,friend,discount,2612,1,0,1,1
+22,F,54,4,1,Excellent,Low,69,Fair,Fair,1,friend,discount,6047,0,1,0,1
+24,M,15,7,0,Very Good,Medium,56,Good,Good,0,friend,offer,6249,1,0,1,0
+18,M,11,1,4,Fair,Medium,92,Very Good,Very Good,0,colleague,offer,3759,0,0,1,1
+23,M,16,3,4,Excellent,High,18,Poor,Excellent,1,spam,prize,7718,1,0,1,0
+18,M,15,7,1,Fair,Medium,96,Poor,Poor,1,spam,prize,4263,0,1,1,1
+19,M,11,5,3,Poor,Medium,64,Good,Good,1,friend,meeting,1902,1,0,1,0
+24,F,7,0,0,Fair,Low,2,Very Good,Fair,0,friend,discount,2567,1,0,0,0
+18,F,83,3,4,Very Good,Low,41,Poor,Good,1,colleague,discount,8075,0,1,0,1
+20,F,2,0,4,Good,Medium,20,Fair,Excellent,0,spam,prize,2994,1,0,1,0
+22,M,15,1,3,Fair,Low,98,Poor,Poor,0,colleague,meeting,5229,0,1,0,0
+19,M,29,4,1,Good,Medium,39,Very Good,Good,1,spam,meeting,2010,1,1,1,1
+24,M,22,7,0,Poor,Low,66,Excellent,Excellent,0,colleague,prize,7377,1,0,0,0
+18,F,91,7,1,Excellent,Low,24,Excellent,Fair,0,friend,prize,830,1,1,0,0
+23,M,4,2,1,Excellent,Low,54,Good,Very Good,1,colleague,prize,48,1,1,0,0
+20,F,83,3,0,Good,Low,83,Very Good,Fair,0,colleague,offer,4210,1,0,0,1
+20,F,64,9,0,Excellent,Medium,51,Poor,Poor,1,friend,meeting,1178,1,0,0,1
+18,M,29,5,4,Fair,High,43,Poor,Fair,0,spam,meeting,5768,1,0,0,1
+22,M,20,9,4,Good,Low,97,Excellent,Fair,1,spam,meeting,7878,0,0,0,1
+18,F,83,2,0,Very Good,Medium,84,Excellent,Fair,1,friend,prize,70,0,1,1,1
+19,M,69,1,2,Fair,Medium,55,Fair,Fair,0,colleague,prize,7686,1,0,1,1
+18,F,21,5,4,Fair,Low,54,Excellent,Poor,1,colleague,prize,7879,1,0,1,1
+20,M,81,4,2,Fair,High,86,Fair,Excellent,0,colleague,prize,5455,1,0,0,1
+24,M,71,9,0,Very Good,Low,69,Poor,Good,0,spam,discount,8258,0,1,0,0
+18,F,31,4,4,Poor,Medium,76,Fair,Very Good,1,colleague,prize,5612,1,1,1,0
+22,M,32,9,1,Excellent,High,86,Fair,Good,0,spam,offer,5769,0,1,1,0
+24,F,15,4,0,Good,Medium,72,Good,Good,1,colleague,discount,1777,1,1,0,0
+23,M,75,9,3,Poor,Low,80,Excellent,Very Good,0,friend,discount,7380,1,1,1,1
+21,F,37,4,2,Good,High,65,Fair,Poor,0,friend,prize,2228,1,0,1,0
+18,F,97,2,0,Excellent,Medium,18,Poor,Very Good,1,spam,meeting,9981,1,1,1,0
+22,M,13,6,0,Very Good,Medium,82,Very Good,Poor,0,spam,prize,8804,1,1,1,0
+24,F,35,5,4,Fair,Medium,6,Fair,Good,0,friend,meeting,9814,0,1,0,0
+22,M,96,3,4,Fair,Low,62,Excellent,Poor,0,friend,prize,8888,1,0,1,0
+23,M,22,1,4,Very Good,High,41,Good,Excellent,0,colleague,prize,6746,0,0,1,1
+20,M,65,8,3,Poor,Low,41,Poor,Very Good,0,friend,meeting,6391,0,1,1,1
+22,F,84,0,4,Poor,Low,58,Good,Excellent,0,spam,meeting,9429,1,0,1,0
+24,F,1,3,0,Good,Low,19,Very Good,Good,0,friend,meeting,2406,1,1,0,0
+22,M,90,0,4,Very Good,High,72,Fair,Very Good,0,spam,meeting,8440,1,0,1,0
+22,M,72,5,1,Poor,Low,16,Fair,Good,1,spam,offer,637,0,0,1,0
+22,F,64,3,4,Very Good,Low,26,Excellent,Excellent,0,colleague,meeting,8090,0,1,1,1
+19,M,74,4,3,Excellent,Low,46,Fair,Good,0,colleague,prize,949,0,0,1,0
+19,M,66,4,1,Fair,Low,1,Poor,Very Good,1,colleague,prize,3587,1,1,1,1
+20,F,51,8,0,Fair,Medium,62,Very Good,Very Good,1,colleague,offer,1111,0,1,0,0
+18,M,61,0,0,Fair,Low,61,Good,Good,1,friend,meeting,8367,0,1,1,1
+22,F,22,1,2,Very Good,Medium,99,Very Good,Very Good,0,colleague,prize,722,0,0,1,1
+23,M,25,5,1,Very Good,Low,18,Fair,Very Good,1,friend,offer,3842,1,0,0,1
+18,F,67,4,2,Good,High,16,Good,Good,1,colleague,prize,3674,0,1,1,0
+23,M,81,6,1,Fair,Medium,68,Excellent,Excellent,0,colleague,offer,4866,0,1,0,0
+18,M,54,2,1,Good,Medium,38,Very Good,Very Good,0,spam,offer,702,1,0,1,1
+20,F,5,2,3,Fair,Medium,81,Good,Very Good,1,friend,discount,2128,1,1,0,0
+22,M,34,9,2,Good,Medium,70,Good,Very Good,1,spam,discount,9118,1,0,0,0
+22,F,21,1,3,Good,High,80,Good,Very Good,0,colleague,meeting,4233,0,0,1,1
+21,M,42,2,1,Excellent,Low,38,Poor,Good,0,friend,discount,2517,0,0,0,0
+23,F,14,9,0,Good,Medium,35,Very Good,Excellent,0,colleague,offer,1149,0,1,1,1
+18,F,85,0,1,Very Good,High,39,Good,Excellent,0,spam,prize,1878,1,1,0,0
+18,F,59,4,3,Good,Medium,44,Very Good,Poor,0,friend,prize,9445,0,0,0,0
+19,F,11,4,2,Fair,Low,3,Good,Very Good,1,spam,meeting,9675,1,1,1,1
+21,M,48,6,2,Good,Medium,24,Excellent,Very Good,0,colleague,discount,309,1,1,0,1
+24,M,41,3,3,Poor,High,68,Excellent,Poor,0,colleague,meeting,3952,0,0,1,1
+24,F,37,2,2,Fair,Low,29,Excellent,Excellent,0,colleague,offer,7728,0,0,0,1
+19,F,81,0,4,Poor,High,75,Fair,Fair,0,friend,discount,3049,0,1,0,0
+19,F,44,7,0,Fair,Low,67,Good,Fair,0,spam,meeting,5766,1,0,1,0
+19,M,34,2,0,Very Good,Low,87,Fair,Excellent,1,spam,prize,9756,1,1,1,0
+23,M,29,1,0,Very Good,Low,28,Very Good,Very Good,0,colleague,prize,9692,0,0,0,1
+23,M,87,3,2,Very Good,Medium,72,Fair,Fair,1,spam,meeting,6412,1,0,1,0
+20,M,29,2,2,Poor,High,67,Very Good,Good,0,friend,meeting,4865,0,1,1,0
+20,F,77,0,1,Excellent,High,50,Very Good,Good,1,colleague,meeting,15,0,1,0,0
+19,F,5,2,1,Fair,High,23,Very Good,Poor,1,colleague,offer,605,0,1,0,1
+21,F,66,1,0,Very Good,Low,13,Fair,Excellent,0,colleague,offer,9573,1,1,1,1
+18,M,79,7,4,Fair,Medium,68,Good,Excellent,0,friend,prize,4908,1,1,0,0
+23,M,6,5,1,Poor,Low,17,Fair,Fair,0,colleague,offer,8006,0,0,1,0
+21,M,51,8,1,Excellent,High,41,Good,Very Good,0,colleague,offer,9086,0,0,1,1
+22,F,13,7,2,Poor,Medium,56,Good,Excellent,0,colleague,discount,9759,1,1,1,1
+23,F,72,9,4,Fair,Medium,82,Very Good,Fair,1,colleague,offer,6412,0,0,1,1
+23,M,14,2,0,Excellent,Medium,11,Fair,Fair,0,spam,discount,8605,1,1,1,1
+20,F,20,4,1,Excellent,High,81,Good,Excellent,0,colleague,offer,4120,0,0,1,0
+18,M,34,6,4,Poor,Medium,16,Excellent,Fair,1,friend,prize,8507,1,0,0,1
+18,M,65,4,4,Very Good,Medium,29,Good,Poor,0,colleague,meeting,4666,0,1,1,0
+24,F,90,7,0,Fair,Low,87,Excellent,Poor,1,colleague,prize,4820,1,1,0,1
+24,M,1,4,4,Good,Low,74,Fair,Excellent,0,spam,offer,7835,0,1,1,0
+24,F,34,0,4,Good,Medium,98,Fair,Very Good,1,colleague,meeting,1849,1,0,0,0
+24,M,81,4,4,Poor,Medium,22,Fair,Poor,0,spam,meeting,1953,1,1,0,1
+22,F,77,3,1,Fair,Low,80,Good,Poor,1,friend,meeting,8580,1,1,0,0
+22,F,19,5,0,Fair,Low,0,Poor,Excellent,1,spam,discount,2769,1,1,1,0
+23,F,81,2,4,Poor,Low,78,Good,Good,0,colleague,prize,3046,0,1,0,0
+19,M,9,4,4,Fair,High,31,Good,Fair,0,friend,discount,7594,1,1,0,1
+20,M,24,1,1,Very Good,High,8,Very Good,Poor,0,colleague,meeting,6840,1,1,1,1
+20,F,65,5,0,Poor,Low,14,Very Good,Good,1,spam,prize,5066,0,0,0,1
+24,F,24,5,2,Very Good,Medium,27,Good,Very Good,1,friend,prize,2415,1,0,0,0
+23,M,53,4,1,Fair,Low,23,Excellent,Good,1,friend,offer,2389,0,0,1,0
+21,M,32,5,0,Poor,High,59,Very Good,Excellent,0,spam,discount,5924,1,0,0,0
+19,M,35,6,4,Fair,Medium,34,Good,Very Good,0,spam,discount,8495,1,1,0,0
+23,F,94,4,0,Poor,High,85,Poor,Very Good,1,friend,offer,763,1,1,1,1
+19,M,13,0,0,Fair,Medium,26,Excellent,Good,0,friend,discount,7541,1,0,0,0
+19,M,64,7,0,Very Good,High,82,Fair,Excellent,1,spam,meeting,815,1,0,0,0
+19,F,79,3,2,Very Good,Medium,75,Good,Poor,0,colleague,meeting,6255,1,0,0,0
+23,M,53,8,0,Fair,Medium,19,Good,Good,0,friend,discount,877,0,1,0,1
+24,M,51,9,2,Poor,Medium,64,Excellent,Poor,1,spam,offer,7173,0,1,1,0
+20,M,2,5,4,Good,Medium,84,Very Good,Good,0,colleague,prize,7073,1,1,1,1
+20,F,98,0,2,Very Good,High,48,Very Good,Poor,0,friend,discount,4798,1,0,1,1
+24,F,40,2,4,Very Good,High,0,Very Good,Good,0,friend,prize,6989,0,0,1,0
+19,F,5,2,4,Good,Medium,9,Fair,Very Good,0,spam,offer,5039,0,0,0,0
+21,F,24,9,2,Fair,Medium,46,Excellent,Fair,0,colleague,prize,9771,1,0,1,0
+18,F,12,3,1,Poor,High,58,Excellent,Very Good,1,friend,offer,6324,1,0,1,0
+23,F,97,5,3,Fair,Medium,95,Very Good,Poor,0,colleague,offer,9395,1,1,0,1
+18,F,7,6,0,Excellent,Medium,61,Very Good,Excellent,1,colleague,meeting,2823,1,1,0,1
+24,M,20,9,3,Very Good,Medium,85,Poor,Very Good,0,friend,meeting,5287,1,1,0,1
+21,M,97,3,0,Excellent,Low,17,Poor,Fair,0,colleague,offer,3285,1,1,1,1
+23,F,67,5,0,Very Good,Medium,45,Good,Poor,1,friend,discount,7433,0,1,0,1
